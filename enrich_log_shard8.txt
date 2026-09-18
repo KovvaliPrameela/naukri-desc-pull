@@ -1,0 +1,1028 @@
+[2026-09-18T13:04:42.421Z] [shard 8] Input CSV loaded: 6989 total rows, 57 columns
+[2026-09-18T13:04:42.423Z] [shard 8] SHARDED MODE: processing rows 3263-3728 (of 6989 total)
+[2026-09-18T13:04:47.978Z] [shard 8] JOBID 160926008822 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-manager-forward-deployed-needo-need-recruitment-consultancy-bengaluru-5-to-8-years-160926008822
+[2026-09-18T13:04:49.891Z] [shard 8] JOBID 160926008822 COMPLETED - description captured (501 chars)
+[2026-09-18T13:04:51.976Z] [shard 8] JOBID 160926005146 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-devops-engineer-global-talent-acquisition-partners-bengaluru-2-to-4-years-160926005146
+[2026-09-18T13:04:53.019Z] [shard 8] JOBID 160926005146 COMPLETED - description captured (556 chars)
+[2026-09-18T13:04:55.088Z] [shard 8] JOBID 160926000671 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-ml-engineer-qikrecruit-indore-hyderabad-ahmedabad-3-to-7-years-160926000671
+[2026-09-18T13:04:56.056Z] [shard 8] JOBID 160926000671 COMPLETED - description captured (240 chars)
+[2026-09-18T13:04:58.125Z] [shard 8] JOBID 150926935165 attempt 1/3 - opening https://www.naukri.com/job-listings-product-manager-hr-technology-cornerstone-ondemand-enterprise-indiaprivate-limited-hyderabad-4-to-9-years-150926935165
+[2026-09-18T13:04:59.140Z] [shard 8] JOBID 150926935165 COMPLETED - description captured (4226 chars)
+[2026-09-18T13:05:01.231Z] [shard 8] JOBID 150926935108 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-quality-engineer-i-accelq-selenium-optum-global-solutions-india-private-limited-hyderabad-4-to-7-years-150926935108
+[2026-09-18T13:05:02.258Z] [shard 8] JOBID 150926935108 COMPLETED - description captured (4337 chars)
+[2026-09-18T13:05:02.293Z] [shard 8] Checkpoint saved (5 completed so far)
+[2026-09-18T13:05:04.388Z] [shard 8] JOBID 150926935071 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineering-lead-optum-global-solutions-india-private-limited-hyderabad-5-to-10-years-150926935071
+[2026-09-18T13:05:05.382Z] [shard 8] JOBID 150926935071 COMPLETED - description captured (5797 chars)
+[2026-09-18T13:05:07.483Z] [shard 8] JOBID 150926934973 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-project-manager-optum-global-solutions-india-private-limited-hyderabad-2-to-7-years-150926934973
+[2026-09-18T13:05:08.480Z] [shard 8] JOBID 150926934973 COMPLETED - description captured (5944 chars)
+[2026-09-18T13:05:10.566Z] [shard 8] JOBID 150926934870 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-ml-engineer-optum-global-solutions-india-private-limited-bengaluru-3-to-7-years-150926934870
+[2026-09-18T13:05:11.499Z] [shard 8] JOBID 150926934870 COMPLETED - description captured (7028 chars)
+[2026-09-18T13:05:13.589Z] [shard 8] JOBID 150926934772 attempt 1/3 - opening https://www.naukri.com/job-listings-data-visualization-engineer-freelancer-soul-ai-chennai-2-to-5-years-150926934772
+[2026-09-18T13:05:14.492Z] [shard 8] JOBID 150926934772 COMPLETED - description captured (3015 chars)
+[2026-09-18T13:05:16.576Z] [shard 8] JOBID 150926934771 attempt 1/3 - opening https://www.naukri.com/job-listings-deep-learning-engineer-freelancer-soul-ai-chennai-1-to-4-years-150926934771
+[2026-09-18T13:05:17.494Z] [shard 8] JOBID 150926934771 COMPLETED - description captured (1572 chars)
+[2026-09-18T13:05:17.532Z] [shard 8] Checkpoint saved (10 completed so far)
+[2026-09-18T13:05:19.598Z] [shard 8] JOBID 150926934770 attempt 1/3 - opening https://www.naukri.com/job-listings-research-scientist-freelancer-soul-ai-chennai-1-to-5-years-150926934770
+[2026-09-18T13:05:20.658Z] [shard 8] JOBID 150926934770 COMPLETED - description captured (2685 chars)
+[2026-09-18T13:05:22.731Z] [shard 8] JOBID 150926934757 attempt 1/3 - opening https://www.naukri.com/job-listings-web-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934757
+[2026-09-18T13:05:23.750Z] [shard 8] JOBID 150926934757 COMPLETED - description captured (1594 chars)
+[2026-09-18T13:05:25.842Z] [shard 8] JOBID 150926934755 attempt 1/3 - opening https://www.naukri.com/job-listings-algorithmic-problem-solving-annotator-competitive-programming-soul-ai-chennai-1-to-4-years-150926934755
+[2026-09-18T13:05:27.130Z] [shard 8] JOBID 150926934755 COMPLETED - description captured (1921 chars)
+[2026-09-18T13:05:29.210Z] [shard 8] JOBID 150926934661 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934661
+[2026-09-18T13:05:30.256Z] [shard 8] JOBID 150926934661 COMPLETED - description captured (665 chars)
+[2026-09-18T13:05:32.344Z] [shard 8] JOBID 150926934660 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934660
+[2026-09-18T13:05:33.266Z] [shard 8] JOBID 150926934660 COMPLETED - description captured (1579 chars)
+[2026-09-18T13:05:33.303Z] [shard 8] Checkpoint saved (15 completed so far)
+[2026-09-18T13:05:35.384Z] [shard 8] JOBID 150926934656 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-chennai-1-to-4-years-150926934656
+[2026-09-18T13:05:36.247Z] [shard 8] JOBID 150926934656 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:05:38.336Z] [shard 8] JOBID 150926934654 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934654
+[2026-09-18T13:05:39.242Z] [shard 8] JOBID 150926934654 COMPLETED - description captured (1249 chars)
+[2026-09-18T13:05:41.339Z] [shard 8] JOBID 150926934652 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934652
+[2026-09-18T13:05:42.316Z] [shard 8] JOBID 150926934652 COMPLETED - description captured (1237 chars)
+[2026-09-18T13:05:44.388Z] [shard 8] JOBID 150926934644 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-chennai-2-to-6-years-150926934644
+[2026-09-18T13:05:45.415Z] [shard 8] JOBID 150926934644 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:05:47.505Z] [shard 8] JOBID 150926934641 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-chennai-1-to-4-years-150926934641
+[2026-09-18T13:05:48.398Z] [shard 8] JOBID 150926934641 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:05:48.436Z] [shard 8] Checkpoint saved (20 completed so far)
+[2026-09-18T13:05:50.507Z] [shard 8] JOBID 150926934637 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934637
+[2026-09-18T13:05:51.430Z] [shard 8] JOBID 150926934637 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:05:53.528Z] [shard 8] JOBID 150926934636 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934636
+[2026-09-18T13:05:54.480Z] [shard 8] JOBID 150926934636 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:05:56.558Z] [shard 8] JOBID 150926934633 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934633
+[2026-09-18T13:05:57.471Z] [shard 8] JOBID 150926934633 COMPLETED - description captured (1211 chars)
+[2026-09-18T13:05:59.560Z] [shard 8] JOBID 150926934632 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934632
+[2026-09-18T13:06:00.547Z] [shard 8] JOBID 150926934632 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:06:02.628Z] [shard 8] JOBID 150926934631 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926934631
+[2026-09-18T13:06:03.870Z] [shard 8] JOBID 150926934631 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:06:03.907Z] [shard 8] Checkpoint saved (25 completed so far)
+[2026-09-18T13:06:06.005Z] [shard 8] JOBID 150926934629 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934629
+[2026-09-18T13:06:07.017Z] [shard 8] JOBID 150926934629 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:06:09.091Z] [shard 8] JOBID 150926934627 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934627
+[2026-09-18T13:06:10.108Z] [shard 8] JOBID 150926934627 COMPLETED - description captured (1852 chars)
+[2026-09-18T13:06:12.194Z] [shard 8] JOBID 150926934626 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934626
+[2026-09-18T13:06:13.076Z] [shard 8] JOBID 150926934626 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:06:15.147Z] [shard 8] JOBID 150926934622 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-bsc-freelancer-soul-ai-chennai-2-to-4-years-150926934622
+[2026-09-18T13:06:16.228Z] [shard 8] JOBID 150926934622 COMPLETED - description captured (1838 chars)
+[2026-09-18T13:06:18.313Z] [shard 8] JOBID 150926934618 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-phd-freelancer-soul-ai-chennai-2-to-6-years-150926934618
+[2026-09-18T13:06:19.262Z] [shard 8] JOBID 150926934618 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:06:19.301Z] [shard 8] Checkpoint saved (30 completed so far)
+[2026-09-18T13:06:21.389Z] [shard 8] JOBID 150926934615 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934615
+[2026-09-18T13:06:22.249Z] [shard 8] JOBID 150926934615 COMPLETED - description captured (1075 chars)
+[2026-09-18T13:06:24.318Z] [shard 8] JOBID 150926934614 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-bsc-freelancer-soul-ai-chennai-1-to-4-years-150926934614
+[2026-09-18T13:06:25.422Z] [shard 8] JOBID 150926934614 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:06:27.491Z] [shard 8] JOBID 150926934609 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934609
+[2026-09-18T13:06:28.415Z] [shard 8] JOBID 150926934609 COMPLETED - description captured (1082 chars)
+[2026-09-18T13:06:30.509Z] [shard 8] JOBID 150926934606 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934606
+[2026-09-18T13:06:31.365Z] [shard 8] JOBID 150926934606 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:06:33.444Z] [shard 8] JOBID 150926934604 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934604
+[2026-09-18T13:06:34.358Z] [shard 8] JOBID 150926934604 COMPLETED - description captured (1215 chars)
+[2026-09-18T13:06:34.392Z] [shard 8] Checkpoint saved (35 completed so far)
+[2026-09-18T13:06:36.487Z] [shard 8] JOBID 150926934603 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934603
+[2026-09-18T13:06:37.326Z] [shard 8] JOBID 150926934603 COMPLETED - description captured (1102 chars)
+[2026-09-18T13:06:39.405Z] [shard 8] JOBID 150926934602 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926934602
+[2026-09-18T13:06:40.497Z] [shard 8] JOBID 150926934602 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:06:42.580Z] [shard 8] JOBID 150926934601 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-msc-freelancer-soul-ai-chennai-0-to-3-years-150926934601
+[2026-09-18T13:06:43.487Z] [shard 8] JOBID 150926934601 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:06:45.569Z] [shard 8] JOBID 150926934598 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926934598
+[2026-09-18T13:06:46.637Z] [shard 8] JOBID 150926934598 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:06:48.703Z] [shard 8] JOBID 240826921912 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-240826921912
+[2026-09-18T13:06:49.686Z] [shard 8] JOBID 240826921912 COMPLETED - description captured (1827 chars)
+[2026-09-18T13:06:49.702Z] [shard 8] Checkpoint saved (40 completed so far)
+[2026-09-18T13:06:51.782Z] [shard 8] JOBID 240826921718 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-optum-global-solutions-india-private-limited-gurugram-5-to-10-years-240826921718
+[2026-09-18T13:06:52.860Z] [shard 8] JOBID 240826921718 COMPLETED - description captured (6274 chars)
+[2026-09-18T13:06:54.944Z] [shard 8] JOBID 240826920902 attempt 1/3 - opening https://www.naukri.com/job-listings-s-c-global-network-ai-healthcare-analytics-senior-manager-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-240826920902
+[2026-09-18T13:06:55.893Z] [shard 8] JOBID 240826920902 COMPLETED - description captured (1469 chars)
+[2026-09-18T13:06:57.971Z] [shard 8] JOBID 240826920901 attempt 1/3 - opening https://www.naukri.com/job-listings-s-c-global-network-ai-healthcare-ccai-manager-accenture-solutions-pvt-ltd-gurugram-4-to-8-years-240826920901
+[2026-09-18T13:06:58.908Z] [shard 8] JOBID 240826920901 COMPLETED - description captured (1471 chars)
+[2026-09-18T13:07:01.000Z] [shard 8] JOBID 240826920774 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-ai-engineer-ecolab-global-services-private-limited-bengaluru-5-to-8-years-240826920774
+[2026-09-18T13:07:02.043Z] [shard 8] JOBID 240826920774 COMPLETED - description captured (569 chars)
+[2026-09-18T13:07:04.116Z] [shard 8] JOBID 240826920711 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-staff-python-developer-python-aws-ai-experian-services-india-private-limited-hyderabad-3-to-8-years-240826920711
+[2026-09-18T13:07:05.273Z] [shard 8] JOBID 240826920711 COMPLETED - description captured (6538 chars)
+[2026-09-18T13:07:05.309Z] [shard 8] Checkpoint saved (45 completed so far)
+[2026-09-18T13:07:07.403Z] [shard 8] JOBID 240826920689 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solution-and-platforms-junior-architect-engineer-pepsico-global-business-services-india-llp-hyderabad-2-to-5-years-240826920689
+[2026-09-18T13:07:08.426Z] [shard 8] JOBID 240826920689 COMPLETED - description captured (7331 chars)
+[2026-09-18T13:07:10.521Z] [shard 8] JOBID 240826920055 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-developer-copilot-vertica-senior-data-engineer-infosys-limited-bengaluru-5-to-8-years-240826920055
+[2026-09-18T13:07:11.497Z] [shard 8] JOBID 240826920055 COMPLETED - description captured (2770 chars)
+[2026-09-18T13:07:13.566Z] [shard 8] JOBID 240826920010 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-infosys-limited-bengaluru-2-to-7-years-240826920010
+[2026-09-18T13:07:14.441Z] [shard 8] JOBID 240826920010 COMPLETED - description captured (2862 chars)
+[2026-09-18T13:07:16.526Z] [shard 8] JOBID 240826919991 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-designer-ui-ux-and-ai-innovation-infosys-limited-pune-5-to-10-years-240826919991
+[2026-09-18T13:07:17.563Z] [shard 8] JOBID 240826919991 COMPLETED - description captured (2118 chars)
+[2026-09-18T13:07:19.654Z] [shard 8] JOBID 150926934443 attempt 1/3 - opening https://www.naukri.com/job-listings-theology-expert-freelancer-soul-ai-chennai-4-to-6-years-150926934443
+[2026-09-18T13:07:20.739Z] [shard 8] JOBID 150926934443 COMPLETED - description captured (2482 chars)
+[2026-09-18T13:07:20.760Z] [shard 8] Checkpoint saved (50 completed so far)
+[2026-09-18T13:07:22.830Z] [shard 8] JOBID 150926934440 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-bsc-expert-freelance-soul-ai-chennai-4-to-8-years-150926934440
+[2026-09-18T13:07:23.844Z] [shard 8] JOBID 150926934440 COMPLETED - description captured (1232 chars)
+[2026-09-18T13:07:25.926Z] [shard 8] JOBID 150926934438 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-biology-k12-freelancer-soul-ai-chennai-4-to-8-years-150926934438
+[2026-09-18T13:07:26.912Z] [shard 8] JOBID 150926934438 COMPLETED - description captured (1515 chars)
+[2026-09-18T13:07:29.000Z] [shard 8] JOBID 150926934436 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934436
+[2026-09-18T13:07:30.001Z] [shard 8] JOBID 150926934436 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:07:32.072Z] [shard 8] JOBID 150926934434 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-phd-freelancer-soul-ai-chennai-1-to-4-years-150926934434
+[2026-09-18T13:07:33.012Z] [shard 8] JOBID 150926934434 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:07:35.101Z] [shard 8] JOBID 150926934431 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-theology-freelancer-soul-ai-chennai-4-to-7-years-150926934431
+[2026-09-18T13:07:36.107Z] [shard 8] JOBID 150926934431 COMPLETED - description captured (2474 chars)
+[2026-09-18T13:07:36.142Z] [shard 8] Checkpoint saved (55 completed so far)
+[2026-09-18T13:07:38.221Z] [shard 8] JOBID 150926934409 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934409
+[2026-09-18T13:07:39.121Z] [shard 8] JOBID 150926934409 COMPLETED - description captured (1533 chars)
+[2026-09-18T13:07:41.203Z] [shard 8] JOBID 150926934406 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934406
+[2026-09-18T13:07:42.118Z] [shard 8] JOBID 150926934406 COMPLETED - description captured (1529 chars)
+[2026-09-18T13:07:44.198Z] [shard 8] JOBID 150926934402 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934402
+[2026-09-18T13:07:45.078Z] [shard 8] JOBID 150926934402 COMPLETED - description captured (1244 chars)
+[2026-09-18T13:07:47.170Z] [shard 8] JOBID 150926934401 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934401
+[2026-09-18T13:07:48.122Z] [shard 8] JOBID 150926934401 COMPLETED - description captured (1229 chars)
+[2026-09-18T13:07:50.203Z] [shard 8] JOBID 150926934400 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926934400
+[2026-09-18T13:07:51.316Z] [shard 8] JOBID 150926934400 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:07:51.339Z] [shard 8] Checkpoint saved (60 completed so far)
+[2026-09-18T13:07:53.412Z] [shard 8] JOBID 150926934397 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934397
+[2026-09-18T13:07:54.293Z] [shard 8] JOBID 150926934397 COMPLETED - description captured (1095 chars)
+[2026-09-18T13:07:56.386Z] [shard 8] JOBID 150926934395 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934395
+[2026-09-18T13:07:57.445Z] [shard 8] JOBID 150926934395 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:07:59.514Z] [shard 8] JOBID 150926934393 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934393
+[2026-09-18T13:08:00.491Z] [shard 8] JOBID 150926934393 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:08:02.559Z] [shard 8] JOBID 150926934390 attempt 1/3 - opening https://www.naukri.com/job-listings-mlops-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934390
+[2026-09-18T13:08:03.519Z] [shard 8] JOBID 150926934390 COMPLETED - description captured (1284 chars)
+[2026-09-18T13:08:05.600Z] [shard 8] JOBID 150926934382 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-chennai-4-to-8-years-150926934382
+[2026-09-18T13:08:06.577Z] [shard 8] JOBID 150926934382 COMPLETED - description captured (1560 chars)
+[2026-09-18T13:08:06.619Z] [shard 8] Checkpoint saved (65 completed so far)
+[2026-09-18T13:08:08.697Z] [shard 8] JOBID 150926934328 attempt 1/3 - opening https://www.naukri.com/job-listings-rbi-grade-b-tutor-freelance-soul-ai-chennai-4-to-8-years-150926934328
+[2026-09-18T13:08:09.822Z] [shard 8] JOBID 150926934328 COMPLETED - description captured (1063 chars)
+[2026-09-18T13:08:11.896Z] [shard 8] JOBID 150926934324 attempt 1/3 - opening https://www.naukri.com/job-listings-psychology-tutor-k12-freelancer-soul-ai-chennai-4-to-8-years-150926934324
+[2026-09-18T13:08:12.848Z] [shard 8] JOBID 150926934324 COMPLETED - description captured (1240 chars)
+[2026-09-18T13:08:14.931Z] [shard 8] JOBID 150926934318 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-soul-ai-chennai-1-to-4-years-150926934318
+[2026-09-18T13:08:15.843Z] [shard 8] JOBID 150926934318 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:08:17.916Z] [shard 8] JOBID 150926934294 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926934294
+[2026-09-18T13:08:18.954Z] [shard 8] JOBID 150926934294 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:08:21.028Z] [shard 8] JOBID 150926934287 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934287
+[2026-09-18T13:08:21.959Z] [shard 8] JOBID 150926934287 COMPLETED - description captured (1113 chars)
+[2026-09-18T13:08:21.979Z] [shard 8] Checkpoint saved (70 completed so far)
+[2026-09-18T13:08:24.044Z] [shard 8] JOBID 150926934282 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934282
+[2026-09-18T13:08:25.455Z] [shard 8] JOBID 150926934282 COMPLETED - description captured (816 chars)
+[2026-09-18T13:08:27.530Z] [shard 8] JOBID 150926934271 attempt 1/3 - opening https://www.naukri.com/job-listings-natural-language-processing-engineer-freelancer-soul-ai-chennai-0-to-3-years-150926934271
+[2026-09-18T13:08:28.457Z] [shard 8] JOBID 150926934271 COMPLETED - description captured (2856 chars)
+[2026-09-18T13:08:30.540Z] [shard 8] JOBID 150926934260 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934260
+[2026-09-18T13:08:31.583Z] [shard 8] JOBID 150926934260 COMPLETED - description captured (764 chars)
+[2026-09-18T13:08:33.657Z] [shard 8] JOBID 150926934259 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934259
+[2026-09-18T13:08:34.778Z] [shard 8] JOBID 150926934259 COMPLETED - description captured (1584 chars)
+[2026-09-18T13:08:36.855Z] [shard 8] JOBID 150926934247 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934247
+[2026-09-18T13:08:37.664Z] [shard 8] JOBID 150926934247 COMPLETED - description captured (787 chars)
+[2026-09-18T13:08:37.703Z] [shard 8] Checkpoint saved (75 completed so far)
+[2026-09-18T13:08:39.788Z] [shard 8] JOBID 150926934242 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934242
+[2026-09-18T13:08:40.871Z] [shard 8] JOBID 150926934242 COMPLETED - description captured (886 chars)
+[2026-09-18T13:08:42.956Z] [shard 8] JOBID 150926934240 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934240
+[2026-09-18T13:08:43.826Z] [shard 8] JOBID 150926934240 COMPLETED - description captured (1526 chars)
+[2026-09-18T13:08:45.902Z] [shard 8] JOBID 150926934235 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-chennai-4-to-8-years-150926934235
+[2026-09-18T13:08:46.799Z] [shard 8] JOBID 150926934235 COMPLETED - description captured (1614 chars)
+[2026-09-18T13:08:48.870Z] [shard 8] JOBID 150926934233 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926934233
+[2026-09-18T13:08:49.725Z] [shard 8] JOBID 150926934233 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:08:51.805Z] [shard 8] JOBID 150926934232 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934232
+[2026-09-18T13:08:52.817Z] [shard 8] JOBID 150926934232 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:08:52.828Z] [shard 8] Checkpoint saved (80 completed so far)
+[2026-09-18T13:08:54.905Z] [shard 8] JOBID 150926934229 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934229
+[2026-09-18T13:08:55.797Z] [shard 8] JOBID 150926934229 COMPLETED - description captured (1059 chars)
+[2026-09-18T13:08:57.891Z] [shard 8] JOBID 150926934228 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-chennai-1-to-3-years-150926934228
+[2026-09-18T13:08:58.806Z] [shard 8] JOBID 150926934228 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:09:00.888Z] [shard 8] JOBID 150926934205 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934205
+[2026-09-18T13:09:01.814Z] [shard 8] JOBID 150926934205 COMPLETED - description captured (1065 chars)
+[2026-09-18T13:09:03.889Z] [shard 8] JOBID 150926934203 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-soul-ai-chennai-1-to-4-years-150926934203
+[2026-09-18T13:09:04.807Z] [shard 8] JOBID 150926934203 COMPLETED - description captured (1535 chars)
+[2026-09-18T13:09:06.904Z] [shard 8] JOBID 150926934199 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-msc-expert-freelance-soul-ai-chennai-4-to-8-years-150926934199
+[2026-09-18T13:09:08.043Z] [shard 8] JOBID 150926934199 COMPLETED - description captured (1295 chars)
+[2026-09-18T13:09:08.090Z] [shard 8] Checkpoint saved (85 completed so far)
+[2026-09-18T13:09:10.176Z] [shard 8] JOBID 150926934193 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-bsc-freelancer-soul-ai-chennai-0-to-3-years-150926934193
+[2026-09-18T13:09:11.071Z] [shard 8] JOBID 150926934193 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:09:13.165Z] [shard 8] JOBID 150926934188 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934188
+[2026-09-18T13:09:14.079Z] [shard 8] JOBID 150926934188 COMPLETED - description captured (1582 chars)
+[2026-09-18T13:09:16.159Z] [shard 8] JOBID 150926934184 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934184
+[2026-09-18T13:09:17.069Z] [shard 8] JOBID 150926934184 COMPLETED - description captured (1080 chars)
+[2026-09-18T13:09:19.147Z] [shard 8] JOBID 150926934183 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926934183
+[2026-09-18T13:09:20.128Z] [shard 8] JOBID 150926934183 COMPLETED - description captured (1835 chars)
+[2026-09-18T13:09:22.207Z] [shard 8] JOBID 150926934180 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934180
+[2026-09-18T13:09:23.071Z] [shard 8] JOBID 150926934180 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:09:23.108Z] [shard 8] Checkpoint saved (90 completed so far)
+[2026-09-18T13:09:25.200Z] [shard 8] JOBID 150926934179 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934179
+[2026-09-18T13:09:26.151Z] [shard 8] JOBID 150926934179 COMPLETED - description captured (1118 chars)
+[2026-09-18T13:09:28.241Z] [shard 8] JOBID 150926934165 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934165
+[2026-09-18T13:09:29.150Z] [shard 8] JOBID 150926934165 COMPLETED - description captured (699 chars)
+[2026-09-18T13:09:31.228Z] [shard 8] JOBID 150926934164 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-engineer-freelancer-soul-ai-chennai-1-to-5-years-150926934164
+[2026-09-18T13:09:32.089Z] [shard 8] JOBID 150926934164 COMPLETED - description captured (2622 chars)
+[2026-09-18T13:09:34.187Z] [shard 8] JOBID 150926934161 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-chennai-4-to-8-years-150926934161
+[2026-09-18T13:09:35.251Z] [shard 8] JOBID 150926934161 COMPLETED - description captured (789 chars)
+[2026-09-18T13:09:37.320Z] [shard 8] JOBID 150926934160 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-scientist-freelancer-soul-ai-chennai-4-to-8-years-150926934160
+[2026-09-18T13:09:38.263Z] [shard 8] JOBID 150926934160 COMPLETED - description captured (1932 chars)
+[2026-09-18T13:09:38.288Z] [shard 8] Checkpoint saved (95 completed so far)
+[2026-09-18T13:09:40.362Z] [shard 8] JOBID 150926934152 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934152
+[2026-09-18T13:09:41.524Z] [shard 8] JOBID 150926934152 COMPLETED - description captured (764 chars)
+[2026-09-18T13:09:43.601Z] [shard 8] JOBID 150926934150 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-chennai-4-to-8-years-150926934150
+[2026-09-18T13:09:44.693Z] [shard 8] JOBID 150926934150 COMPLETED - description captured (761 chars)
+[2026-09-18T13:09:46.772Z] [shard 8] JOBID 150926934143 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-soul-ai-chennai-2-to-5-years-150926934143
+[2026-09-18T13:09:47.683Z] [shard 8] JOBID 150926934143 COMPLETED - description captured (1550 chars)
+[2026-09-18T13:09:49.772Z] [shard 8] JOBID 150926934142 attempt 1/3 - opening https://www.naukri.com/job-listings-operations-analyst-freelancer-soul-ai-chennai-4-to-8-years-150926934142
+[2026-09-18T13:09:50.638Z] [shard 8] JOBID 150926934142 COMPLETED - description captured (1072 chars)
+[2026-09-18T13:09:52.714Z] [shard 8] JOBID 150926934134 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-chennai-4-to-8-years-150926934134
+[2026-09-18T13:09:53.596Z] [shard 8] JOBID 150926934134 COMPLETED - description captured (3165 chars)
+[2026-09-18T13:09:53.633Z] [shard 8] Checkpoint saved (100 completed so far)
+[2026-09-18T13:09:55.725Z] [shard 8] JOBID 150926934129 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-msc-freelancer-soul-ai-chennai-2-to-6-years-150926934129
+[2026-09-18T13:09:56.676Z] [shard 8] JOBID 150926934129 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:09:58.757Z] [shard 8] JOBID 150926934127 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934127
+[2026-09-18T13:09:59.607Z] [shard 8] JOBID 150926934127 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:10:01.679Z] [shard 8] JOBID 150926934126 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934126
+[2026-09-18T13:10:02.624Z] [shard 8] JOBID 150926934126 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:10:04.705Z] [shard 8] JOBID 150926934122 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-phd-freelancer-soul-ai-chennai-3-to-7-years-150926934122
+[2026-09-18T13:10:05.746Z] [shard 8] JOBID 150926934122 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:10:07.820Z] [shard 8] JOBID 150926934117 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-freelance-soul-ai-chennai-4-to-8-years-150926934117
+[2026-09-18T13:10:08.711Z] [shard 8] JOBID 150926934117 COMPLETED - description captured (1137 chars)
+[2026-09-18T13:10:08.729Z] [shard 8] Checkpoint saved (105 completed so far)
+[2026-09-18T13:10:10.808Z] [shard 8] JOBID 150926934114 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-freelance-soul-ai-chennai-4-to-8-years-150926934114
+[2026-09-18T13:10:11.781Z] [shard 8] JOBID 150926934114 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:10:13.850Z] [shard 8] JOBID 150926934112 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-freelance-soul-ai-chennai-4-to-8-years-150926934112
+[2026-09-18T13:10:14.904Z] [shard 8] JOBID 150926934112 COMPLETED - description captured (1110 chars)
+[2026-09-18T13:10:16.976Z] [shard 8] JOBID 150926934107 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934107
+[2026-09-18T13:10:17.873Z] [shard 8] JOBID 150926934107 COMPLETED - description captured (1127 chars)
+[2026-09-18T13:10:19.953Z] [shard 8] JOBID 150926934106 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934106
+[2026-09-18T13:10:20.927Z] [shard 8] JOBID 150926934106 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:10:23.024Z] [shard 8] JOBID 150926934105 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934105
+[2026-09-18T13:10:24.008Z] [shard 8] JOBID 150926934105 COMPLETED - description captured (1101 chars)
+[2026-09-18T13:10:24.047Z] [shard 8] Checkpoint saved (110 completed so far)
+[2026-09-18T13:10:26.141Z] [shard 8] JOBID 150926934104 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934104
+[2026-09-18T13:10:27.088Z] [shard 8] JOBID 150926934104 COMPLETED - description captured (1141 chars)
+[2026-09-18T13:10:29.173Z] [shard 8] JOBID 150926934103 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934103
+[2026-09-18T13:10:30.076Z] [shard 8] JOBID 150926934103 COMPLETED - description captured (1241 chars)
+[2026-09-18T13:10:32.153Z] [shard 8] JOBID 150926934102 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934102
+[2026-09-18T13:10:33.086Z] [shard 8] JOBID 150926934102 COMPLETED - description captured (1080 chars)
+[2026-09-18T13:10:35.174Z] [shard 8] JOBID 150926934099 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934099
+[2026-09-18T13:10:36.122Z] [shard 8] JOBID 150926934099 COMPLETED - description captured (1104 chars)
+[2026-09-18T13:10:38.199Z] [shard 8] JOBID 150926934097 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-msc-freelancer-soul-ai-chennai-4-to-8-years-150926934097
+[2026-09-18T13:10:39.138Z] [shard 8] JOBID 150926934097 COMPLETED - description captured (1095 chars)
+[2026-09-18T13:10:39.155Z] [shard 8] Checkpoint saved (115 completed so far)
+[2026-09-18T13:10:41.234Z] [shard 8] JOBID 150926934096 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934096
+[2026-09-18T13:10:42.176Z] [shard 8] JOBID 150926934096 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:10:44.256Z] [shard 8] JOBID 150926934095 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934095
+[2026-09-18T13:10:45.121Z] [shard 8] JOBID 150926934095 COMPLETED - description captured (1130 chars)
+[2026-09-18T13:10:47.208Z] [shard 8] JOBID 150926934094 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934094
+[2026-09-18T13:10:48.092Z] [shard 8] JOBID 150926934094 COMPLETED - description captured (1135 chars)
+[2026-09-18T13:10:50.179Z] [shard 8] JOBID 150926934091 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-freelancer-soul-ai-chennai-4-to-8-years-150926934091
+[2026-09-18T13:10:51.053Z] [shard 8] JOBID 150926934091 COMPLETED - description captured (1101 chars)
+[2026-09-18T13:10:53.134Z] [shard 8] JOBID 150926934090 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-phd-freelancer-soul-ai-chennai-4-to-8-years-150926934090
+[2026-09-18T13:10:54.154Z] [shard 8] JOBID 150926934090 COMPLETED - description captured (1082 chars)
+[2026-09-18T13:10:54.192Z] [shard 8] Checkpoint saved (120 completed so far)
+[2026-09-18T13:10:56.290Z] [shard 8] JOBID 150926934089 attempt 1/3 - opening https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-chennai-1-to-6-years-150926934089
+[2026-09-18T13:10:57.259Z] [shard 8] JOBID 150926934089 COMPLETED - description captured (985 chars)
+[2026-09-18T13:10:59.336Z] [shard 8] JOBID 150926934088 attempt 1/3 - opening https://www.naukri.com/job-listings-go-software-engineer-testing-code-evaluation-soul-ai-chennai-1-to-4-years-150926934088
+[2026-09-18T13:11:00.424Z] [shard 8] JOBID 150926934088 COMPLETED - description captured (1044 chars)
+[2026-09-18T13:11:02.505Z] [shard 8] JOBID 150926934081 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-specialist-msc-soul-ai-chennai-1-to-3-years-150926934081
+[2026-09-18T13:11:03.506Z] [shard 8] JOBID 150926934081 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:11:05.579Z] [shard 8] JOBID 150926934080 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-freelance-soul-ai-chennai-1-to-5-years-150926934080
+[2026-09-18T13:11:06.584Z] [shard 8] JOBID 150926934080 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:11:08.665Z] [shard 8] JOBID 150926934079 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-freelance-soul-ai-chennai-2-to-6-years-150926934079
+[2026-09-18T13:11:09.599Z] [shard 8] JOBID 150926934079 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:11:09.637Z] [shard 8] Checkpoint saved (125 completed so far)
+[2026-09-18T13:11:11.710Z] [shard 8] JOBID 150926934075 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926934075
+[2026-09-18T13:11:12.633Z] [shard 8] JOBID 150926934075 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:11:14.717Z] [shard 8] JOBID 150926934074 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-bsc-freelancer-soul-ai-chennai-4-to-8-years-150926934074
+[2026-09-18T13:11:15.679Z] [shard 8] JOBID 150926934074 COMPLETED - description captured (1246 chars)
+[2026-09-18T13:11:17.762Z] [shard 8] JOBID 150926934073 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-freelance-soul-ai-chennai-1-to-5-years-150926934073
+[2026-09-18T13:11:18.622Z] [shard 8] JOBID 150926934073 COMPLETED - description captured (1733 chars)
+[2026-09-18T13:11:20.701Z] [shard 8] JOBID 150926934071 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926934071
+[2026-09-18T13:11:21.635Z] [shard 8] JOBID 150926934071 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:11:23.721Z] [shard 8] JOBID 150926934070 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-soul-ai-chennai-2-to-5-years-150926934070
+[2026-09-18T13:11:24.749Z] [shard 8] JOBID 150926934070 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:11:24.767Z] [shard 8] Checkpoint saved (130 completed so far)
+[2026-09-18T13:11:26.846Z] [shard 8] JOBID 150926934069 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-bsc-expert-freelance-soul-ai-chennai-1-to-4-years-150926934069
+[2026-09-18T13:11:27.825Z] [shard 8] JOBID 150926934069 COMPLETED - description captured (1733 chars)
+[2026-09-18T13:11:29.906Z] [shard 8] JOBID 150926934067 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-expert-soul-ai-chennai-2-to-5-years-150926934067
+[2026-09-18T13:11:30.822Z] [shard 8] JOBID 150926934067 COMPLETED - description captured (1559 chars)
+[2026-09-18T13:11:32.911Z] [shard 8] JOBID 150926934061 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-soul-ai-chennai-4-to-8-years-150926934061
+[2026-09-18T13:11:33.961Z] [shard 8] JOBID 150926934061 COMPLETED - description captured (1252 chars)
+[2026-09-18T13:11:36.056Z] [shard 8] JOBID 150926934055 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-research-annotator-soul-ai-chennai-2-to-5-years-150926934055
+[2026-09-18T13:11:36.929Z] [shard 8] JOBID 150926934055 COMPLETED - description captured (1612 chars)
+[2026-09-18T13:11:38.997Z] [shard 8] JOBID 150926934045 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-sme-soul-ai-chennai-2-to-5-years-150926934045
+[2026-09-18T13:11:40.063Z] [shard 8] JOBID 150926934045 COMPLETED - description captured (1374 chars)
+[2026-09-18T13:11:40.101Z] [shard 8] Checkpoint saved (135 completed so far)
+[2026-09-18T13:11:42.188Z] [shard 8] JOBID 150926934022 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-python-based-soul-ai-chennai-2-to-4-years-150926934022
+[2026-09-18T13:11:43.020Z] [shard 8] JOBID 150926934022 COMPLETED - description captured (596 chars)
+[2026-09-18T13:11:45.104Z] [shard 8] JOBID 150926934013 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-scientist-freelancer-soul-ai-chennai-2-to-6-years-150926934013
+[2026-09-18T13:11:45.967Z] [shard 8] JOBID 150926934013 COMPLETED - description captured (2617 chars)
+[2026-09-18T13:11:48.052Z] [shard 8] JOBID 150926933944 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-python-based-soul-ai-delhi-ncr-2-to-4-years-150926933944
+[2026-09-18T13:11:48.912Z] [shard 8] JOBID 150926933944 COMPLETED - description captured (501 chars)
+[2026-09-18T13:11:50.982Z] [shard 8] JOBID 150926933940 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-chennai-2-to-4-years-150926933940
+[2026-09-18T13:11:51.802Z] [shard 8] JOBID 150926933940 COMPLETED - description captured (881 chars)
+[2026-09-18T13:11:53.873Z] [shard 8] JOBID 150926933936 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-delhi-ncr-2-to-4-years-150926933936
+[2026-09-18T13:11:54.911Z] [shard 8] JOBID 150926933936 COMPLETED - description captured (605 chars)
+[2026-09-18T13:11:54.924Z] [shard 8] Checkpoint saved (140 completed so far)
+[2026-09-18T13:11:57.013Z] [shard 8] JOBID 150926933917 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-mid-level-soul-ai-delhi-ncr-2-to-4-years-150926933917
+[2026-09-18T13:11:57.854Z] [shard 8] JOBID 150926933917 COMPLETED - description captured (461 chars)
+[2026-09-18T13:11:59.936Z] [shard 8] JOBID 150926933902 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-mid-level-soul-ai-chennai-2-to-4-years-150926933902
+[2026-09-18T13:12:00.915Z] [shard 8] JOBID 150926933902 COMPLETED - description captured (547 chars)
+[2026-09-18T13:12:03.004Z] [shard 8] JOBID 150926933831 attempt 1/3 - opening https://www.naukri.com/job-listings-marketing-generalist-soul-ai-chennai-4-to-8-years-150926933831
+[2026-09-18T13:12:03.870Z] [shard 8] JOBID 150926933831 COMPLETED - description captured (1043 chars)
+[2026-09-18T13:12:05.944Z] [shard 8] JOBID 150926933829 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933829
+[2026-09-18T13:12:06.783Z] [shard 8] JOBID 150926933829 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:12:08.867Z] [shard 8] JOBID 150926933826 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933826
+[2026-09-18T13:12:09.765Z] [shard 8] JOBID 150926933826 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:12:09.802Z] [shard 8] Checkpoint saved (145 completed so far)
+[2026-09-18T13:12:11.871Z] [shard 8] JOBID 150926933800 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-biology-phd-soul-ai-chennai-2-to-5-years-150926933800
+[2026-09-18T13:12:12.820Z] [shard 8] JOBID 150926933800 COMPLETED - description captured (1345 chars)
+[2026-09-18T13:12:14.889Z] [shard 8] JOBID 150926933798 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-specialist-msc-soul-ai-chennai-1-to-4-years-150926933798
+[2026-09-18T13:12:15.938Z] [shard 8] JOBID 150926933798 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:12:18.015Z] [shard 8] JOBID 150926933792 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-soul-ai-chennai-2-to-5-years-150926933792
+[2026-09-18T13:12:18.855Z] [shard 8] JOBID 150926933792 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:12:20.947Z] [shard 8] JOBID 150926933791 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-bsc-expert-freelance-soul-ai-chennai-1-to-4-years-150926933791
+[2026-09-18T13:12:21.925Z] [shard 8] JOBID 150926933791 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:12:24.005Z] [shard 8] JOBID 150926933789 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-soul-ai-chennai-1-to-5-years-150926933789
+[2026-09-18T13:12:24.900Z] [shard 8] JOBID 150926933789 COMPLETED - description captured (1619 chars)
+[2026-09-18T13:12:24.920Z] [shard 8] Checkpoint saved (150 completed so far)
+[2026-09-18T13:12:27.002Z] [shard 8] JOBID 150926933784 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-bsc-expert-freelance-soul-ai-chennai-1-to-4-years-150926933784
+[2026-09-18T13:12:27.866Z] [shard 8] JOBID 150926933784 COMPLETED - description captured (1742 chars)
+[2026-09-18T13:12:29.938Z] [shard 8] JOBID 150926933782 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-freelance-soul-ai-chennai-2-to-6-years-150926933782
+[2026-09-18T13:12:30.957Z] [shard 8] JOBID 150926933782 COMPLETED - description captured (1742 chars)
+[2026-09-18T13:12:33.039Z] [shard 8] JOBID 150926933766 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-bsc-freelancer-soul-ai-chennai-2-to-5-years-150926933766
+[2026-09-18T13:12:34.231Z] [shard 8] JOBID 150926933766 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:12:36.311Z] [shard 8] JOBID 150926933765 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-msc-freelancer-soul-ai-chennai-2-to-5-years-150926933765
+[2026-09-18T13:12:37.282Z] [shard 8] JOBID 150926933765 COMPLETED - description captured (1838 chars)
+[2026-09-18T13:12:39.355Z] [shard 8] JOBID 150926933764 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926933764
+[2026-09-18T13:12:40.266Z] [shard 8] JOBID 150926933764 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:12:40.306Z] [shard 8] Checkpoint saved (155 completed so far)
+[2026-09-18T13:12:42.384Z] [shard 8] JOBID 150926933763 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926933763
+[2026-09-18T13:12:43.319Z] [shard 8] JOBID 150926933763 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:12:45.396Z] [shard 8] JOBID 150926933755 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926933755
+[2026-09-18T13:12:46.711Z] [shard 8] JOBID 150926933755 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:12:48.787Z] [shard 8] JOBID 150926933754 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-phd-freelancer-soul-ai-chennai-2-to-6-years-150926933754
+[2026-09-18T13:12:49.742Z] [shard 8] JOBID 150926933754 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:12:51.813Z] [shard 8] JOBID 150926933749 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-freelance-soul-ai-chennai-2-to-6-years-150926933749
+[2026-09-18T13:12:52.814Z] [shard 8] JOBID 150926933749 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:12:54.880Z] [shard 8] JOBID 150926933737 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-literature-freelancer-soul-ai-chennai-1-to-5-years-150926933737
+[2026-09-18T13:12:56.346Z] [shard 8] JOBID 150926933737 COMPLETED - description captured (2583 chars)
+[2026-09-18T13:12:56.372Z] [shard 8] Checkpoint saved (160 completed so far)
+[2026-09-18T13:12:58.452Z] [shard 8] JOBID 150926933727 attempt 1/3 - opening https://www.naukri.com/job-listings-literary-expert-freelancer-soul-ai-chennai-1-to-6-years-150926933727
+[2026-09-18T13:12:59.366Z] [shard 8] JOBID 150926933727 COMPLETED - description captured (2516 chars)
+[2026-09-18T13:13:01.443Z] [shard 8] JOBID 150926933726 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-soul-ai-chennai-1-to-4-years-150926933726
+[2026-09-18T13:13:02.626Z] [shard 8] JOBID 150926933726 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:13:04.717Z] [shard 8] JOBID 150926933724 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-bsc-freelancer-soul-ai-chennai-1-to-4-years-150926933724
+[2026-09-18T13:13:06.563Z] [shard 8] JOBID 150926933724 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:13:08.645Z] [shard 8] JOBID 150926933722 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933722
+[2026-09-18T13:13:10.018Z] [shard 8] JOBID 150926933722 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:13:12.106Z] [shard 8] JOBID 150926933720 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933720
+[2026-09-18T13:13:13.468Z] [shard 8] JOBID 150926933720 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:13:13.508Z] [shard 8] Checkpoint saved (165 completed so far)
+[2026-09-18T13:13:15.602Z] [shard 8] JOBID 150926933719 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933719
+[2026-09-18T13:13:16.737Z] [shard 8] JOBID 150926933719 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:13:18.812Z] [shard 8] JOBID 150926933717 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-phd-freelancer-soul-ai-chennai-1-to-5-years-150926933717
+[2026-09-18T13:13:19.956Z] [shard 8] JOBID 150926933717 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:13:22.032Z] [shard 8] JOBID 150926933715 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-msc-freelancer-soul-ai-chennai-1-to-4-years-150926933715
+[2026-09-18T13:13:22.986Z] [shard 8] JOBID 150926933715 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:13:25.079Z] [shard 8] JOBID 150926933687 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926933687
+[2026-09-18T13:13:26.097Z] [shard 8] JOBID 150926933687 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:13:28.177Z] [shard 8] JOBID 150926933679 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-bsc-freelancer-soul-ai-chennai-1-to-3-years-150926933679
+[2026-09-18T13:13:29.062Z] [shard 8] JOBID 150926933679 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:13:29.081Z] [shard 8] Checkpoint saved (170 completed so far)
+[2026-09-18T13:13:31.146Z] [shard 8] JOBID 150926933676 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-msc-freelancer-soul-ai-chennai-1-to-3-years-150926933676
+[2026-09-18T13:13:32.141Z] [shard 8] JOBID 150926933676 COMPLETED - description captured (1835 chars)
+[2026-09-18T13:13:34.208Z] [shard 8] JOBID 150926933675 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-msc-freelancer-soul-ai-chennai-0-to-3-years-150926933675
+[2026-09-18T13:13:35.048Z] [shard 8] JOBID 150926933675 COMPLETED - description captured (1836 chars)
+[2026-09-18T13:13:37.132Z] [shard 8] JOBID 150926933673 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-bsc-freelancer-soul-ai-chennai-0-to-2-years-150926933673
+[2026-09-18T13:13:37.974Z] [shard 8] JOBID 150926933673 COMPLETED - description captured (1836 chars)
+[2026-09-18T13:13:40.047Z] [shard 8] JOBID 150926933614 attempt 1/3 - opening https://www.naukri.com/job-listings-data-visualization-engineer-freelancer-soul-ai-gurugram-2-to-5-years-150926933614
+[2026-09-18T13:13:40.959Z] [shard 8] JOBID 150926933614 COMPLETED - description captured (3015 chars)
+[2026-09-18T13:13:43.031Z] [shard 8] JOBID 150926933613 attempt 1/3 - opening https://www.naukri.com/job-listings-deep-learning-engineer-freelancer-soul-ai-gurugram-1-to-4-years-150926933613
+[2026-09-18T13:13:43.840Z] [shard 8] JOBID 150926933613 COMPLETED - description captured (1572 chars)
+[2026-09-18T13:13:43.879Z] [shard 8] Checkpoint saved (175 completed so far)
+[2026-09-18T13:13:45.964Z] [shard 8] JOBID 150926933612 attempt 1/3 - opening https://www.naukri.com/job-listings-research-scientist-freelancer-soul-ai-gurugram-4-to-8-years-150926933612
+[2026-09-18T13:13:46.859Z] [shard 8] JOBID 150926933612 COMPLETED - description captured (1519 chars)
+[2026-09-18T13:13:48.949Z] [shard 8] JOBID 150926933609 attempt 1/3 - opening https://www.naukri.com/job-listings-research-scientist-freelancer-soul-ai-gurugram-1-to-5-years-150926933609
+[2026-09-18T13:13:49.845Z] [shard 8] JOBID 150926933609 COMPLETED - description captured (2685 chars)
+[2026-09-18T13:13:51.916Z] [shard 8] JOBID 150926933597 attempt 1/3 - opening https://www.naukri.com/job-listings-web-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933597
+[2026-09-18T13:13:53.346Z] [shard 8] JOBID 150926933597 COMPLETED - description captured (1594 chars)
+[2026-09-18T13:13:55.415Z] [shard 8] JOBID 150926933595 attempt 1/3 - opening https://www.naukri.com/job-listings-algorithmic-problem-solving-annotator-competitive-programming-soul-ai-gurugram-1-to-4-years-150926933595
+[2026-09-18T13:13:56.270Z] [shard 8] JOBID 150926933595 COMPLETED - description captured (1921 chars)
+[2026-09-18T13:13:58.355Z] [shard 8] JOBID 150926933538 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933538
+[2026-09-18T13:13:59.187Z] [shard 8] JOBID 150926933538 COMPLETED - description captured (665 chars)
+[2026-09-18T13:13:59.225Z] [shard 8] Checkpoint saved (180 completed so far)
+[2026-09-18T13:14:01.311Z] [shard 8] JOBID 150926933536 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933536
+[2026-09-18T13:14:02.164Z] [shard 8] JOBID 150926933536 COMPLETED - description captured (1579 chars)
+[2026-09-18T13:14:04.245Z] [shard 8] JOBID 150926933534 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-gurugram-1-to-4-years-150926933534
+[2026-09-18T13:14:05.112Z] [shard 8] JOBID 150926933534 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:14:07.182Z] [shard 8] JOBID 150926933532 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926933532
+[2026-09-18T13:14:08.018Z] [shard 8] JOBID 150926933532 COMPLETED - description captured (1249 chars)
+[2026-09-18T13:14:10.106Z] [shard 8] JOBID 150926933531 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933531
+[2026-09-18T13:14:10.924Z] [shard 8] JOBID 150926933531 COMPLETED - description captured (1237 chars)
+[2026-09-18T13:14:13.005Z] [shard 8] JOBID 150926933528 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-gurugram-2-to-6-years-150926933528
+[2026-09-18T13:14:13.902Z] [shard 8] JOBID 150926933528 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:14:13.921Z] [shard 8] Checkpoint saved (185 completed so far)
+[2026-09-18T13:14:15.996Z] [shard 8] JOBID 150926933527 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-gurugram-1-to-4-years-150926933527
+[2026-09-18T13:14:16.863Z] [shard 8] JOBID 150926933527 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:14:18.953Z] [shard 8] JOBID 150926933526 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933526
+[2026-09-18T13:14:19.798Z] [shard 8] JOBID 150926933526 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:14:21.885Z] [shard 8] JOBID 150926933525 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933525
+[2026-09-18T13:14:22.823Z] [shard 8] JOBID 150926933525 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:14:24.888Z] [shard 8] JOBID 150926933524 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933524
+[2026-09-18T13:14:25.667Z] [shard 8] JOBID 150926933524 COMPLETED - description captured (1211 chars)
+[2026-09-18T13:14:27.738Z] [shard 8] JOBID 150926933523 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933523
+[2026-09-18T13:14:28.579Z] [shard 8] JOBID 150926933523 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:14:28.618Z] [shard 8] Checkpoint saved (190 completed so far)
+[2026-09-18T13:14:30.702Z] [shard 8] JOBID 150926933522 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933522
+[2026-09-18T13:14:31.553Z] [shard 8] JOBID 150926933522 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:14:33.635Z] [shard 8] JOBID 150926933521 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933521
+[2026-09-18T13:14:34.436Z] [shard 8] JOBID 150926933521 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:14:36.516Z] [shard 8] JOBID 150926933520 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933520
+[2026-09-18T13:14:37.367Z] [shard 8] JOBID 150926933520 COMPLETED - description captured (1852 chars)
+[2026-09-18T13:14:39.454Z] [shard 8] JOBID 150926933509 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933509
+[2026-09-18T13:14:40.244Z] [shard 8] JOBID 150926933509 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:14:42.331Z] [shard 8] JOBID 150926933506 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-bsc-freelancer-soul-ai-gurugram-2-to-4-years-150926933506
+[2026-09-18T13:14:43.119Z] [shard 8] JOBID 150926933506 COMPLETED - description captured (1838 chars)
+[2026-09-18T13:14:43.151Z] [shard 8] Checkpoint saved (195 completed so far)
+[2026-09-18T13:14:45.221Z] [shard 8] JOBID 150926933504 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-phd-freelancer-soul-ai-gurugram-1-to-6-years-150926933504
+[2026-09-18T13:14:46.092Z] [shard 8] JOBID 150926933504 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:14:48.179Z] [shard 8] JOBID 150926933502 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-phd-freelancer-soul-ai-gurugram-2-to-6-years-150926933502
+[2026-09-18T13:14:48.989Z] [shard 8] JOBID 150926933502 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:14:51.061Z] [shard 8] JOBID 150926933500 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933500
+[2026-09-18T13:14:51.906Z] [shard 8] JOBID 150926933500 COMPLETED - description captured (1075 chars)
+[2026-09-18T13:14:53.989Z] [shard 8] JOBID 150926933499 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-bsc-freelancer-soul-ai-gurugram-1-to-4-years-150926933499
+[2026-09-18T13:14:54.803Z] [shard 8] JOBID 150926933499 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:14:56.879Z] [shard 8] JOBID 150926933495 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933495
+[2026-09-18T13:14:57.735Z] [shard 8] JOBID 150926933495 COMPLETED - description captured (1082 chars)
+[2026-09-18T13:14:57.776Z] [shard 8] Checkpoint saved (200 completed so far)
+[2026-09-18T13:14:59.860Z] [shard 8] JOBID 150926933491 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933491
+[2026-09-18T13:15:00.703Z] [shard 8] JOBID 150926933491 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:15:02.782Z] [shard 8] JOBID 150926933489 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933489
+[2026-09-18T13:15:03.582Z] [shard 8] JOBID 150926933489 COMPLETED - description captured (1215 chars)
+[2026-09-18T13:15:05.675Z] [shard 8] JOBID 150926933487 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933487
+[2026-09-18T13:15:06.495Z] [shard 8] JOBID 150926933487 COMPLETED - description captured (1102 chars)
+[2026-09-18T13:15:08.583Z] [shard 8] JOBID 150926933485 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933485
+[2026-09-18T13:15:09.408Z] [shard 8] JOBID 150926933485 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:15:11.491Z] [shard 8] JOBID 150926933481 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933481
+[2026-09-18T13:15:12.289Z] [shard 8] JOBID 150926933481 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:15:12.314Z] [shard 8] Checkpoint saved (205 completed so far)
+[2026-09-18T13:15:14.392Z] [shard 8] JOBID 150926933480 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933480
+[2026-09-18T13:15:15.759Z] [shard 8] JOBID 150926933480 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:15:17.849Z] [shard 8] JOBID 150926933467 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-physics-k12-professional-freelancer-soul-ai-gurugram-4-to-8-years-150926933467
+[2026-09-18T13:15:18.708Z] [shard 8] JOBID 150926933467 COMPLETED - description captured (1485 chars)
+[2026-09-18T13:15:20.792Z] [shard 8] JOBID 150926933452 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933452
+[2026-09-18T13:15:21.644Z] [shard 8] JOBID 150926933452 COMPLETED - description captured (1083 chars)
+[2026-09-18T13:15:23.735Z] [shard 8] JOBID 150926933445 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933445
+[2026-09-18T13:15:25.023Z] [shard 8] JOBID 150926933445 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:15:27.107Z] [shard 8] JOBID 150926933444 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-bsc-freelancer-soul-ai-gurugram-1-to-4-years-150926933444
+[2026-09-18T13:15:27.911Z] [shard 8] JOBID 150926933444 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:15:27.953Z] [shard 8] Checkpoint saved (210 completed so far)
+[2026-09-18T13:15:30.041Z] [shard 8] JOBID 150926933440 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933440
+[2026-09-18T13:15:30.958Z] [shard 8] JOBID 150926933440 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:15:33.030Z] [shard 8] JOBID 150926933439 attempt 1/3 - opening https://www.naukri.com/job-listings-theology-expert-freelancer-soul-ai-gurugram-4-to-8-years-150926933439
+[2026-09-18T13:15:33.981Z] [shard 8] JOBID 150926933439 COMPLETED - description captured (1697 chars)
+[2026-09-18T13:15:36.065Z] [shard 8] JOBID 150926933427 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-literature-freelancer-soul-ai-gurugram-4-to-8-years-150926933427
+[2026-09-18T13:15:37.044Z] [shard 8] JOBID 150926933427 COMPLETED - description captured (1787 chars)
+[2026-09-18T13:15:39.134Z] [shard 8] JOBID 150926933426 attempt 1/3 - opening https://www.naukri.com/job-listings-stem-curriculum-designer-freelancer-soul-ai-gurugram-1-to-5-years-150926933426
+[2026-09-18T13:15:40.028Z] [shard 8] JOBID 150926933426 COMPLETED - description captured (2808 chars)
+[2026-09-18T13:15:42.101Z] [shard 8] JOBID 150926933419 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-theology-professional-freelancer-soul-ai-gurugram-4-to-8-years-150926933419
+[2026-09-18T13:15:42.973Z] [shard 8] JOBID 150926933419 COMPLETED - description captured (1823 chars)
+[2026-09-18T13:15:43.015Z] [shard 8] Checkpoint saved (215 completed so far)
+[2026-09-18T13:15:45.113Z] [shard 8] JOBID 150926933416 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-geometry-freelancer-soul-ai-gurugram-4-to-8-years-150926933416
+[2026-09-18T13:15:46.105Z] [shard 8] JOBID 150926933416 COMPLETED - description captured (1403 chars)
+[2026-09-18T13:15:48.194Z] [shard 8] JOBID 150926933414 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933414
+[2026-09-18T13:15:49.290Z] [shard 8] JOBID 150926933414 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:15:51.364Z] [shard 8] JOBID 150926933413 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933413
+[2026-09-18T13:15:52.176Z] [shard 8] JOBID 150926933413 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:15:54.258Z] [shard 8] JOBID 150926933408 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-phd-freelancer-soul-ai-gurugram-1-to-4-years-150926933408
+[2026-09-18T13:15:55.075Z] [shard 8] JOBID 150926933408 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:15:57.152Z] [shard 8] JOBID 150926933402 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933402
+[2026-09-18T13:15:58.052Z] [shard 8] JOBID 150926933402 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:15:58.092Z] [shard 8] Checkpoint saved (220 completed so far)
+[2026-09-18T13:16:00.169Z] [shard 8] JOBID 150926933391 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-freelance-soul-ai-gurugram-4-to-8-years-150926933391
+[2026-09-18T13:16:00.992Z] [shard 8] JOBID 150926933391 COMPLETED - description captured (1110 chars)
+[2026-09-18T13:16:03.080Z] [shard 8] JOBID 150926933376 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933376
+[2026-09-18T13:16:03.931Z] [shard 8] JOBID 150926933376 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:16:06.007Z] [shard 8] JOBID 150926933356 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933356
+[2026-09-18T13:16:06.861Z] [shard 8] JOBID 150926933356 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:16:08.951Z] [shard 8] JOBID 150926933330 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933330
+[2026-09-18T13:16:09.756Z] [shard 8] JOBID 150926933330 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:16:11.857Z] [shard 8] JOBID 150926933328 attempt 1/3 - opening https://www.naukri.com/job-listings-theology-expert-freelancer-soul-ai-gurugram-4-to-6-years-150926933328
+[2026-09-18T13:16:12.712Z] [shard 8] JOBID 150926933328 COMPLETED - description captured (2482 chars)
+[2026-09-18T13:16:12.740Z] [shard 8] Checkpoint saved (225 completed so far)
+[2026-09-18T13:16:14.811Z] [shard 8] JOBID 150926933323 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-bsc-expert-freelance-soul-ai-gurugram-4-to-8-years-150926933323
+[2026-09-18T13:16:15.709Z] [shard 8] JOBID 150926933323 COMPLETED - description captured (1232 chars)
+[2026-09-18T13:16:17.792Z] [shard 8] JOBID 150926933322 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-biology-k12-freelancer-soul-ai-gurugram-4-to-8-years-150926933322
+[2026-09-18T13:16:18.676Z] [shard 8] JOBID 150926933322 COMPLETED - description captured (1515 chars)
+[2026-09-18T13:16:20.766Z] [shard 8] JOBID 150926933320 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933320
+[2026-09-18T13:16:21.765Z] [shard 8] JOBID 150926933320 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:16:23.836Z] [shard 8] JOBID 150926933318 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-phd-freelancer-soul-ai-gurugram-1-to-4-years-150926933318
+[2026-09-18T13:16:24.697Z] [shard 8] JOBID 150926933318 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:16:26.770Z] [shard 8] JOBID 150926933310 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-theology-freelancer-soul-ai-gurugram-4-to-7-years-150926933310
+[2026-09-18T13:16:27.570Z] [shard 8] JOBID 150926933310 COMPLETED - description captured (2474 chars)
+[2026-09-18T13:16:27.615Z] [shard 8] Checkpoint saved (230 completed so far)
+[2026-09-18T13:16:29.705Z] [shard 8] JOBID 150926933284 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933284
+[2026-09-18T13:16:30.658Z] [shard 8] JOBID 150926933284 COMPLETED - description captured (1533 chars)
+[2026-09-18T13:16:32.750Z] [shard 8] JOBID 150926933282 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933282
+[2026-09-18T13:16:33.996Z] [shard 8] JOBID 150926933282 COMPLETED - description captured (1529 chars)
+[2026-09-18T13:16:36.082Z] [shard 8] JOBID 150926933280 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933280
+[2026-09-18T13:16:36.923Z] [shard 8] JOBID 150926933280 COMPLETED - description captured (1244 chars)
+[2026-09-18T13:16:39.012Z] [shard 8] JOBID 150926933279 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933279
+[2026-09-18T13:16:39.850Z] [shard 8] JOBID 150926933279 COMPLETED - description captured (1229 chars)
+[2026-09-18T13:16:41.937Z] [shard 8] JOBID 150926933278 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933278
+[2026-09-18T13:16:42.793Z] [shard 8] JOBID 150926933278 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:16:42.816Z] [shard 8] Checkpoint saved (235 completed so far)
+[2026-09-18T13:16:44.891Z] [shard 8] JOBID 150926933276 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933276
+[2026-09-18T13:16:45.736Z] [shard 8] JOBID 150926933276 COMPLETED - description captured (1095 chars)
+[2026-09-18T13:16:47.804Z] [shard 8] JOBID 150926933275 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933275
+[2026-09-18T13:16:48.765Z] [shard 8] JOBID 150926933275 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:16:50.846Z] [shard 8] JOBID 150926933274 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933274
+[2026-09-18T13:16:51.664Z] [shard 8] JOBID 150926933274 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:16:53.738Z] [shard 8] JOBID 150926933268 attempt 1/3 - opening https://www.naukri.com/job-listings-mlops-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926933268
+[2026-09-18T13:16:54.722Z] [shard 8] JOBID 150926933268 COMPLETED - description captured (1284 chars)
+[2026-09-18T13:16:56.808Z] [shard 8] JOBID 150926933252 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933252
+[2026-09-18T13:16:57.606Z] [shard 8] JOBID 150926933252 COMPLETED - description captured (1560 chars)
+[2026-09-18T13:16:57.644Z] [shard 8] Checkpoint saved (240 completed so far)
+[2026-09-18T13:16:59.713Z] [shard 8] JOBID 150926933179 attempt 1/3 - opening https://www.naukri.com/job-listings-rbi-grade-b-tutor-freelance-soul-ai-gurugram-4-to-8-years-150926933179
+[2026-09-18T13:17:00.600Z] [shard 8] JOBID 150926933179 COMPLETED - description captured (1063 chars)
+[2026-09-18T13:17:02.692Z] [shard 8] JOBID 150926933174 attempt 1/3 - opening https://www.naukri.com/job-listings-psychology-tutor-k12-freelancer-soul-ai-gurugram-4-to-8-years-150926933174
+[2026-09-18T13:17:03.511Z] [shard 8] JOBID 150926933174 COMPLETED - description captured (1240 chars)
+[2026-09-18T13:17:05.584Z] [shard 8] JOBID 150926933161 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-soul-ai-gurugram-1-to-4-years-150926933161
+[2026-09-18T13:17:06.389Z] [shard 8] JOBID 150926933161 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:17:08.468Z] [shard 8] JOBID 150926933134 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926933134
+[2026-09-18T13:17:09.345Z] [shard 8] JOBID 150926933134 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:17:11.431Z] [shard 8] JOBID 150926933126 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933126
+[2026-09-18T13:17:12.254Z] [shard 8] JOBID 150926933126 COMPLETED - description captured (1113 chars)
+[2026-09-18T13:17:12.275Z] [shard 8] Checkpoint saved (245 completed so far)
+[2026-09-18T13:17:14.356Z] [shard 8] JOBID 150926933120 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933120
+[2026-09-18T13:17:15.315Z] [shard 8] JOBID 150926933120 COMPLETED - description captured (816 chars)
+[2026-09-18T13:17:17.403Z] [shard 8] JOBID 150926933089 attempt 1/3 - opening https://www.naukri.com/job-listings-natural-language-processing-engineer-freelancer-soul-ai-gurugram-0-to-3-years-150926933089
+[2026-09-18T13:17:18.436Z] [shard 8] JOBID 150926933089 COMPLETED - description captured (2856 chars)
+[2026-09-18T13:17:20.513Z] [shard 8] JOBID 150926933069 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-freelance-soul-ai-gurugram-4-to-8-years-150926933069
+[2026-09-18T13:17:21.545Z] [shard 8] JOBID 150926933069 COMPLETED - description captured (1090 chars)
+[2026-09-18T13:17:23.638Z] [shard 8] JOBID 150926933064 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926933064
+[2026-09-18T13:17:24.512Z] [shard 8] JOBID 150926933064 COMPLETED - description captured (1050 chars)
+[2026-09-18T13:17:26.601Z] [shard 8] JOBID 150926933059 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933059
+[2026-09-18T13:17:27.509Z] [shard 8] JOBID 150926933059 COMPLETED - description captured (1050 chars)
+[2026-09-18T13:17:27.549Z] [shard 8] Checkpoint saved (250 completed so far)
+[2026-09-18T13:17:29.633Z] [shard 8] JOBID 150926933056 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926933056
+[2026-09-18T13:17:30.626Z] [shard 8] JOBID 150926933056 COMPLETED - description captured (1014 chars)
+[2026-09-18T13:17:32.701Z] [shard 8] JOBID 150926933054 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926933054
+[2026-09-18T13:17:33.541Z] [shard 8] JOBID 150926933054 COMPLETED - description captured (1032 chars)
+[2026-09-18T13:17:35.608Z] [shard 8] JOBID 150926933052 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933052
+[2026-09-18T13:17:36.506Z] [shard 8] JOBID 150926933052 COMPLETED - description captured (764 chars)
+[2026-09-18T13:17:38.585Z] [shard 8] JOBID 150926933048 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933048
+[2026-09-18T13:17:39.607Z] [shard 8] JOBID 150926933048 COMPLETED - description captured (1584 chars)
+[2026-09-18T13:17:41.686Z] [shard 8] JOBID 150926933032 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933032
+[2026-09-18T13:17:42.551Z] [shard 8] JOBID 150926933032 COMPLETED - description captured (787 chars)
+[2026-09-18T13:17:42.575Z] [shard 8] Checkpoint saved (255 completed so far)
+[2026-09-18T13:17:44.652Z] [shard 8] JOBID 150926933021 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933021
+[2026-09-18T13:17:45.644Z] [shard 8] JOBID 150926933021 COMPLETED - description captured (886 chars)
+[2026-09-18T13:17:47.733Z] [shard 8] JOBID 150926933017 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933017
+[2026-09-18T13:17:48.783Z] [shard 8] JOBID 150926933017 COMPLETED - description captured (1526 chars)
+[2026-09-18T13:17:50.856Z] [shard 8] JOBID 150926933009 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926933009
+[2026-09-18T13:17:51.726Z] [shard 8] JOBID 150926933009 COMPLETED - description captured (1614 chars)
+[2026-09-18T13:17:53.810Z] [shard 8] JOBID 150926933002 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926933002
+[2026-09-18T13:17:54.643Z] [shard 8] JOBID 150926933002 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:17:56.722Z] [shard 8] JOBID 150926933000 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926933000
+[2026-09-18T13:17:57.561Z] [shard 8] JOBID 150926933000 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:17:57.598Z] [shard 8] Checkpoint saved (260 completed so far)
+[2026-09-18T13:17:59.673Z] [shard 8] JOBID 150926932996 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932996
+[2026-09-18T13:18:00.679Z] [shard 8] JOBID 150926932996 COMPLETED - description captured (1059 chars)
+[2026-09-18T13:18:02.762Z] [shard 8] JOBID 150926932994 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-gurugram-1-to-3-years-150926932994
+[2026-09-18T13:18:03.854Z] [shard 8] JOBID 150926932994 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:18:05.930Z] [shard 8] JOBID 150926932968 attempt 1/3 - opening https://www.naukri.com/job-listings-c-programmer-freelancer-soul-ai-gurugram-4-to-8-years-150926932968
+[2026-09-18T13:18:06.923Z] [shard 8] JOBID 150926932968 COMPLETED - description captured (1544 chars)
+[2026-09-18T13:18:09.019Z] [shard 8] JOBID 150926932965 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932965
+[2026-09-18T13:18:09.924Z] [shard 8] JOBID 150926932965 COMPLETED - description captured (1065 chars)
+[2026-09-18T13:18:12.017Z] [shard 8] JOBID 150926932962 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-soul-ai-gurugram-1-to-4-years-150926932962
+[2026-09-18T13:18:12.904Z] [shard 8] JOBID 150926932962 COMPLETED - description captured (1535 chars)
+[2026-09-18T13:18:12.925Z] [shard 8] Checkpoint saved (265 completed so far)
+[2026-09-18T13:18:14.999Z] [shard 8] JOBID 150926932954 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-msc-expert-freelance-soul-ai-gurugram-4-to-8-years-150926932954
+[2026-09-18T13:18:15.879Z] [shard 8] JOBID 150926932954 COMPLETED - description captured (1295 chars)
+[2026-09-18T13:18:17.964Z] [shard 8] JOBID 150926932944 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-bsc-freelancer-soul-ai-gurugram-0-to-3-years-150926932944
+[2026-09-18T13:18:18.746Z] [shard 8] JOBID 150926932944 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:18:20.828Z] [shard 8] JOBID 150926932938 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926932938
+[2026-09-18T13:18:21.734Z] [shard 8] JOBID 150926932938 COMPLETED - description captured (1582 chars)
+[2026-09-18T13:18:23.810Z] [shard 8] JOBID 150926932932 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932932
+[2026-09-18T13:18:24.669Z] [shard 8] JOBID 150926932932 COMPLETED - description captured (1080 chars)
+[2026-09-18T13:18:26.735Z] [shard 8] JOBID 150926932930 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926932930
+[2026-09-18T13:18:27.607Z] [shard 8] JOBID 150926932930 COMPLETED - description captured (1835 chars)
+[2026-09-18T13:18:27.644Z] [shard 8] Checkpoint saved (270 completed so far)
+[2026-09-18T13:18:29.728Z] [shard 8] JOBID 150926932923 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932923
+[2026-09-18T13:18:30.624Z] [shard 8] JOBID 150926932923 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:18:32.699Z] [shard 8] JOBID 150926932921 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932921
+[2026-09-18T13:18:33.548Z] [shard 8] JOBID 150926932921 COMPLETED - description captured (1118 chars)
+[2026-09-18T13:18:35.614Z] [shard 8] JOBID 150926932909 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-bsc-expert-freelance-soul-ai-gurugram-4-to-8-years-150926932909
+[2026-09-18T13:18:36.453Z] [shard 8] JOBID 150926932909 COMPLETED - description captured (1081 chars)
+[2026-09-18T13:18:38.544Z] [shard 8] JOBID 150926932899 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932899
+[2026-09-18T13:18:39.323Z] [shard 8] JOBID 150926932899 COMPLETED - description captured (699 chars)
+[2026-09-18T13:18:41.403Z] [shard 8] JOBID 150926932897 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-engineer-freelancer-soul-ai-gurugram-1-to-5-years-150926932897
+[2026-09-18T13:18:42.227Z] [shard 8] JOBID 150926932897 COMPLETED - description captured (2622 chars)
+[2026-09-18T13:18:42.251Z] [shard 8] Checkpoint saved (275 completed so far)
+[2026-09-18T13:18:44.327Z] [shard 8] JOBID 150926932887 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-gurugram-4-to-8-years-150926932887
+[2026-09-18T13:18:45.179Z] [shard 8] JOBID 150926932887 COMPLETED - description captured (789 chars)
+[2026-09-18T13:18:47.251Z] [shard 8] JOBID 150926932883 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-scientist-freelancer-soul-ai-gurugram-4-to-8-years-150926932883
+[2026-09-18T13:18:48.197Z] [shard 8] JOBID 150926932883 COMPLETED - description captured (1932 chars)
+[2026-09-18T13:18:50.276Z] [shard 8] JOBID 150926932867 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926932867
+[2026-09-18T13:18:51.079Z] [shard 8] JOBID 150926932867 COMPLETED - description captured (764 chars)
+[2026-09-18T13:18:53.149Z] [shard 8] JOBID 150926932865 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-gurugram-4-to-8-years-150926932865
+[2026-09-18T13:18:53.999Z] [shard 8] JOBID 150926932865 COMPLETED - description captured (761 chars)
+[2026-09-18T13:18:56.067Z] [shard 8] JOBID 150926932858 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-soul-ai-gurugram-2-to-5-years-150926932858
+[2026-09-18T13:18:56.924Z] [shard 8] JOBID 150926932858 COMPLETED - description captured (1550 chars)
+[2026-09-18T13:18:56.961Z] [shard 8] Checkpoint saved (280 completed so far)
+[2026-09-18T13:18:59.053Z] [shard 8] JOBID 150926932853 attempt 1/3 - opening https://www.naukri.com/job-listings-operations-analyst-freelancer-soul-ai-gurugram-4-to-8-years-150926932853
+[2026-09-18T13:18:59.967Z] [shard 8] JOBID 150926932853 COMPLETED - description captured (1072 chars)
+[2026-09-18T13:19:02.050Z] [shard 8] JOBID 150926932841 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-gurugram-4-to-8-years-150926932841
+[2026-09-18T13:19:02.903Z] [shard 8] JOBID 150926932841 COMPLETED - description captured (3165 chars)
+[2026-09-18T13:19:04.969Z] [shard 8] JOBID 150926932834 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-msc-freelancer-soul-ai-gurugram-2-to-6-years-150926932834
+[2026-09-18T13:19:05.899Z] [shard 8] JOBID 150926932834 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:19:07.983Z] [shard 8] JOBID 150926932832 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932832
+[2026-09-18T13:19:09.030Z] [shard 8] JOBID 150926932832 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:19:11.114Z] [shard 8] JOBID 150926932816 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-phd-freelancer-soul-ai-gurugram-3-to-7-years-150926932816
+[2026-09-18T13:19:12.173Z] [shard 8] JOBID 150926932816 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:19:12.192Z] [shard 8] Checkpoint saved (285 completed so far)
+[2026-09-18T13:19:14.273Z] [shard 8] JOBID 150926932805 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-freelance-soul-ai-gurugram-4-to-8-years-150926932805
+[2026-09-18T13:19:15.122Z] [shard 8] JOBID 150926932805 COMPLETED - description captured (1137 chars)
+[2026-09-18T13:19:17.197Z] [shard 8] JOBID 150926932800 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-freelance-soul-ai-gurugram-4-to-8-years-150926932800
+[2026-09-18T13:19:18.315Z] [shard 8] JOBID 150926932800 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:19:20.382Z] [shard 8] JOBID 150926932796 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-freelance-soul-ai-gurugram-4-to-8-years-150926932796
+[2026-09-18T13:19:21.349Z] [shard 8] JOBID 150926932796 COMPLETED - description captured (1110 chars)
+[2026-09-18T13:19:23.429Z] [shard 8] JOBID 150926932786 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932786
+[2026-09-18T13:19:24.271Z] [shard 8] JOBID 150926932786 COMPLETED - description captured (1127 chars)
+[2026-09-18T13:19:26.365Z] [shard 8] JOBID 150926932783 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932783
+[2026-09-18T13:19:27.250Z] [shard 8] JOBID 150926932783 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:19:27.290Z] [shard 8] Checkpoint saved (290 completed so far)
+[2026-09-18T13:19:29.382Z] [shard 8] JOBID 150926932781 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932781
+[2026-09-18T13:19:30.302Z] [shard 8] JOBID 150926932781 COMPLETED - description captured (1101 chars)
+[2026-09-18T13:19:32.392Z] [shard 8] JOBID 150926932777 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926932777
+[2026-09-18T13:19:33.353Z] [shard 8] JOBID 150926932777 COMPLETED - description captured (1141 chars)
+[2026-09-18T13:19:35.433Z] [shard 8] JOBID 150926932776 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926932776
+[2026-09-18T13:19:36.263Z] [shard 8] JOBID 150926932776 COMPLETED - description captured (1241 chars)
+[2026-09-18T13:19:38.351Z] [shard 8] JOBID 150926932774 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932774
+[2026-09-18T13:19:39.401Z] [shard 8] JOBID 150926932774 COMPLETED - description captured (1080 chars)
+[2026-09-18T13:19:41.481Z] [shard 8] JOBID 150926932769 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932769
+[2026-09-18T13:19:42.325Z] [shard 8] JOBID 150926932769 COMPLETED - description captured (1104 chars)
+[2026-09-18T13:19:42.351Z] [shard 8] Checkpoint saved (295 completed so far)
+[2026-09-18T13:19:44.445Z] [shard 8] JOBID 150926932767 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-msc-freelancer-soul-ai-gurugram-4-to-8-years-150926932767
+[2026-09-18T13:19:45.358Z] [shard 8] JOBID 150926932767 COMPLETED - description captured (1095 chars)
+[2026-09-18T13:19:47.425Z] [shard 8] JOBID 150926932764 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932764
+[2026-09-18T13:19:48.412Z] [shard 8] JOBID 150926932764 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:19:50.480Z] [shard 8] JOBID 150926932762 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932762
+[2026-09-18T13:19:51.448Z] [shard 8] JOBID 150926932762 COMPLETED - description captured (1130 chars)
+[2026-09-18T13:19:53.529Z] [shard 8] JOBID 150926932760 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926932760
+[2026-09-18T13:19:54.420Z] [shard 8] JOBID 150926932760 COMPLETED - description captured (1135 chars)
+[2026-09-18T13:19:56.509Z] [shard 8] JOBID 150926932754 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-freelancer-soul-ai-gurugram-4-to-8-years-150926932754
+[2026-09-18T13:19:57.365Z] [shard 8] JOBID 150926932754 COMPLETED - description captured (1101 chars)
+[2026-09-18T13:19:57.405Z] [shard 8] Checkpoint saved (300 completed so far)
+[2026-09-18T13:19:59.492Z] [shard 8] JOBID 150926932752 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932752
+[2026-09-18T13:20:00.377Z] [shard 8] JOBID 150926932752 COMPLETED - description captured (1082 chars)
+[2026-09-18T13:20:02.455Z] [shard 8] JOBID 150926932750 attempt 1/3 - opening https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-gurugram-1-to-6-years-150926932750
+[2026-09-18T13:20:03.370Z] [shard 8] JOBID 150926932750 COMPLETED - description captured (985 chars)
+[2026-09-18T13:20:05.444Z] [shard 8] JOBID 150926932747 attempt 1/3 - opening https://www.naukri.com/job-listings-go-software-engineer-testing-code-evaluation-soul-ai-gurugram-1-to-4-years-150926932747
+[2026-09-18T13:20:06.266Z] [shard 8] JOBID 150926932747 COMPLETED - description captured (1044 chars)
+[2026-09-18T13:20:08.342Z] [shard 8] JOBID 150926932736 attempt 1/3 - opening https://www.naukri.com/job-listings-web-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-150926932736
+[2026-09-18T13:20:09.526Z] [shard 8] JOBID 150926932736 COMPLETED - description captured (618 chars)
+[2026-09-18T13:20:11.602Z] [shard 8] JOBID 150926932732 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-specialist-msc-soul-ai-gurugram-1-to-3-years-150926932732
+[2026-09-18T13:20:12.699Z] [shard 8] JOBID 150926932732 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:20:12.725Z] [shard 8] Checkpoint saved (305 completed so far)
+[2026-09-18T13:20:14.812Z] [shard 8] JOBID 150926932730 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-freelance-soul-ai-gurugram-1-to-5-years-150926932730
+[2026-09-18T13:20:15.616Z] [shard 8] JOBID 150926932730 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:20:17.694Z] [shard 8] JOBID 150926932728 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-freelance-soul-ai-gurugram-2-to-6-years-150926932728
+[2026-09-18T13:20:18.567Z] [shard 8] JOBID 150926932728 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:20:20.640Z] [shard 8] JOBID 150926932720 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926932720
+[2026-09-18T13:20:21.635Z] [shard 8] JOBID 150926932720 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:20:23.701Z] [shard 8] JOBID 150926932718 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-150926932718
+[2026-09-18T13:20:24.574Z] [shard 8] JOBID 150926932718 COMPLETED - description captured (1246 chars)
+[2026-09-18T13:20:26.655Z] [shard 8] JOBID 150926932716 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-freelance-soul-ai-gurugram-1-to-5-years-150926932716
+[2026-09-18T13:20:27.591Z] [shard 8] JOBID 150926932716 COMPLETED - description captured (1733 chars)
+[2026-09-18T13:20:27.633Z] [shard 8] Checkpoint saved (310 completed so far)
+[2026-09-18T13:20:29.725Z] [shard 8] JOBID 150926932714 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926932714
+[2026-09-18T13:20:30.721Z] [shard 8] JOBID 150926932714 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:20:32.808Z] [shard 8] JOBID 150926932712 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-soul-ai-gurugram-2-to-5-years-150926932712
+[2026-09-18T13:20:33.613Z] [shard 8] JOBID 150926932712 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:20:35.699Z] [shard 8] JOBID 150926932709 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-bsc-expert-freelance-soul-ai-gurugram-1-to-4-years-150926932709
+[2026-09-18T13:20:36.507Z] [shard 8] JOBID 150926932709 COMPLETED - description captured (1733 chars)
+[2026-09-18T13:20:38.590Z] [shard 8] JOBID 150926932706 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-expert-soul-ai-gurugram-2-to-5-years-150926932706
+[2026-09-18T13:20:39.485Z] [shard 8] JOBID 150926932706 COMPLETED - description captured (1559 chars)
+[2026-09-18T13:20:41.561Z] [shard 8] JOBID 150926932702 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932702
+[2026-09-18T13:20:42.433Z] [shard 8] JOBID 150926932702 COMPLETED - description captured (1483 chars)
+[2026-09-18T13:20:42.456Z] [shard 8] Checkpoint saved (315 completed so far)
+[2026-09-18T13:20:44.552Z] [shard 8] JOBID 150926932694 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-soul-ai-gurugram-4-to-8-years-150926932694
+[2026-09-18T13:20:45.410Z] [shard 8] JOBID 150926932694 COMPLETED - description captured (1252 chars)
+[2026-09-18T13:20:47.489Z] [shard 8] JOBID 150926932684 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-phd-freelancer-soul-ai-gurugram-4-to-8-years-150926932684
+[2026-09-18T13:20:48.525Z] [shard 8] JOBID 150926932684 COMPLETED - description captured (677 chars)
+[2026-09-18T13:20:50.601Z] [shard 8] JOBID 150926932679 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-research-annotator-soul-ai-gurugram-2-to-5-years-150926932679
+[2026-09-18T13:20:51.548Z] [shard 8] JOBID 150926932679 COMPLETED - description captured (1612 chars)
+[2026-09-18T13:20:53.634Z] [shard 8] JOBID 150926932640 attempt 1/3 - opening https://www.naukri.com/job-listings-applied-ai-java-engineer-soul-ai-gurugram-1-to-5-years-150926932640
+[2026-09-18T13:20:54.439Z] [shard 8] JOBID 150926932640 COMPLETED - description captured (1079 chars)
+[2026-09-18T13:20:56.529Z] [shard 8] JOBID 150926932629 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-sme-soul-ai-gurugram-2-to-5-years-150926932629
+[2026-09-18T13:20:57.370Z] [shard 8] JOBID 150926932629 COMPLETED - description captured (1374 chars)
+[2026-09-18T13:20:57.405Z] [shard 8] Checkpoint saved (320 completed so far)
+[2026-09-18T13:20:59.496Z] [shard 8] JOBID 150926932600 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-python-based-soul-ai-gurugram-2-to-4-years-150926932600
+[2026-09-18T13:21:00.464Z] [shard 8] JOBID 150926932600 COMPLETED - description captured (596 chars)
+[2026-09-18T13:21:02.548Z] [shard 8] JOBID 150926932592 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-scientist-freelancer-soul-ai-gurugram-2-to-6-years-150926932592
+[2026-09-18T13:21:03.491Z] [shard 8] JOBID 150926932592 COMPLETED - description captured (2617 chars)
+[2026-09-18T13:21:05.579Z] [shard 8] JOBID 150926932515 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-gurugram-2-to-4-years-150926932515
+[2026-09-18T13:21:06.465Z] [shard 8] JOBID 150926932515 COMPLETED - description captured (881 chars)
+[2026-09-18T13:21:08.551Z] [shard 8] JOBID 150926932475 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-mid-level-soul-ai-gurugram-2-to-4-years-150926932475
+[2026-09-18T13:21:09.651Z] [shard 8] JOBID 150926932475 COMPLETED - description captured (547 chars)
+[2026-09-18T13:21:11.745Z] [shard 8] JOBID 150926932364 attempt 1/3 - opening https://www.naukri.com/job-listings-marketing-generalist-soul-ai-gurugram-4-to-8-years-150926932364
+[2026-09-18T13:21:12.588Z] [shard 8] JOBID 150926932364 COMPLETED - description captured (1043 chars)
+[2026-09-18T13:21:12.603Z] [shard 8] Checkpoint saved (325 completed so far)
+[2026-09-18T13:21:14.692Z] [shard 8] JOBID 150926932362 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932362
+[2026-09-18T13:21:15.576Z] [shard 8] JOBID 150926932362 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:21:17.651Z] [shard 8] JOBID 150926932356 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932356
+[2026-09-18T13:21:18.525Z] [shard 8] JOBID 150926932356 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:21:20.616Z] [shard 8] JOBID 150926932321 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-biology-phd-soul-ai-gurugram-2-to-5-years-150926932321
+[2026-09-18T13:21:21.490Z] [shard 8] JOBID 150926932321 COMPLETED - description captured (1345 chars)
+[2026-09-18T13:21:23.583Z] [shard 8] JOBID 150926932319 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-specialist-msc-soul-ai-gurugram-1-to-4-years-150926932319
+[2026-09-18T13:21:24.378Z] [shard 8] JOBID 150926932319 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:21:26.476Z] [shard 8] JOBID 150926932310 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-phd-expert-soul-ai-gurugram-2-to-5-years-150926932310
+[2026-09-18T13:21:27.441Z] [shard 8] JOBID 150926932310 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:21:27.479Z] [shard 8] Checkpoint saved (330 completed so far)
+[2026-09-18T13:21:29.568Z] [shard 8] JOBID 150926932307 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-bsc-expert-freelance-soul-ai-gurugram-1-to-4-years-150926932307
+[2026-09-18T13:21:30.525Z] [shard 8] JOBID 150926932307 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:21:32.610Z] [shard 8] JOBID 150926932304 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-soul-ai-gurugram-1-to-5-years-150926932304
+[2026-09-18T13:21:33.559Z] [shard 8] JOBID 150926932304 COMPLETED - description captured (1619 chars)
+[2026-09-18T13:21:35.647Z] [shard 8] JOBID 150926932299 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-bsc-expert-freelance-soul-ai-gurugram-1-to-4-years-150926932299
+[2026-09-18T13:21:36.595Z] [shard 8] JOBID 150926932299 COMPLETED - description captured (1742 chars)
+[2026-09-18T13:21:38.662Z] [shard 8] JOBID 150926932297 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-phd-expert-freelance-soul-ai-gurugram-2-to-6-years-150926932297
+[2026-09-18T13:21:39.647Z] [shard 8] JOBID 150926932297 COMPLETED - description captured (1742 chars)
+[2026-09-18T13:21:41.739Z] [shard 8] JOBID 150926932276 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-bsc-freelancer-soul-ai-gurugram-2-to-5-years-150926932276
+[2026-09-18T13:21:42.653Z] [shard 8] JOBID 150926932276 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:21:42.672Z] [shard 8] Checkpoint saved (335 completed so far)
+[2026-09-18T13:21:44.759Z] [shard 8] JOBID 150926932274 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-msc-freelancer-soul-ai-gurugram-2-to-5-years-150926932274
+[2026-09-18T13:21:45.600Z] [shard 8] JOBID 150926932274 COMPLETED - description captured (1838 chars)
+[2026-09-18T13:21:47.675Z] [shard 8] JOBID 150926932272 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926932272
+[2026-09-18T13:21:48.533Z] [shard 8] JOBID 150926932272 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:21:50.619Z] [shard 8] JOBID 150926932269 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926932269
+[2026-09-18T13:21:51.515Z] [shard 8] JOBID 150926932269 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:21:53.592Z] [shard 8] JOBID 150926932255 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926932255
+[2026-09-18T13:21:54.463Z] [shard 8] JOBID 150926932255 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:21:56.550Z] [shard 8] JOBID 150926932253 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-phd-freelancer-soul-ai-gurugram-2-to-6-years-150926932253
+[2026-09-18T13:21:57.406Z] [shard 8] JOBID 150926932253 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:21:57.444Z] [shard 8] Checkpoint saved (340 completed so far)
+[2026-09-18T13:21:59.526Z] [shard 8] JOBID 150926932246 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-freelance-soul-ai-gurugram-2-to-6-years-150926932246
+[2026-09-18T13:22:00.371Z] [shard 8] JOBID 150926932246 COMPLETED - description captured (1732 chars)
+[2026-09-18T13:22:02.443Z] [shard 8] JOBID 150926932228 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-literature-freelancer-soul-ai-gurugram-1-to-5-years-150926932228
+[2026-09-18T13:22:03.390Z] [shard 8] JOBID 150926932228 COMPLETED - description captured (2583 chars)
+[2026-09-18T13:22:05.476Z] [shard 8] JOBID 150926932214 attempt 1/3 - opening https://www.naukri.com/job-listings-literary-expert-freelancer-soul-ai-gurugram-1-to-6-years-150926932214
+[2026-09-18T13:22:06.348Z] [shard 8] JOBID 150926932214 COMPLETED - description captured (2516 chars)
+[2026-09-18T13:22:08.436Z] [shard 8] JOBID 150926932211 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-soul-ai-gurugram-1-to-4-years-150926932211
+[2026-09-18T13:22:09.245Z] [shard 8] JOBID 150926932211 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:22:11.323Z] [shard 8] JOBID 150926932208 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-bsc-freelancer-soul-ai-gurugram-1-to-4-years-150926932208
+[2026-09-18T13:22:12.100Z] [shard 8] JOBID 150926932208 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:22:12.139Z] [shard 8] Checkpoint saved (345 completed so far)
+[2026-09-18T13:22:14.222Z] [shard 8] JOBID 150926932206 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932206
+[2026-09-18T13:22:15.083Z] [shard 8] JOBID 150926932206 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:22:17.160Z] [shard 8] JOBID 150926932204 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932204
+[2026-09-18T13:22:18.136Z] [shard 8] JOBID 150926932204 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:22:20.216Z] [shard 8] JOBID 150926932202 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932202
+[2026-09-18T13:22:21.103Z] [shard 8] JOBID 150926932202 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:22:23.186Z] [shard 8] JOBID 150926932200 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-phd-freelancer-soul-ai-gurugram-1-to-5-years-150926932200
+[2026-09-18T13:22:24.012Z] [shard 8] JOBID 150926932200 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:22:26.082Z] [shard 8] JOBID 150926932196 attempt 1/3 - opening https://www.naukri.com/job-listings-mining-engineer-msc-freelancer-soul-ai-gurugram-1-to-4-years-150926932196
+[2026-09-18T13:22:26.937Z] [shard 8] JOBID 150926932196 COMPLETED - description captured (1832 chars)
+[2026-09-18T13:22:26.957Z] [shard 8] Checkpoint saved (350 completed so far)
+[2026-09-18T13:22:29.043Z] [shard 8] JOBID 150926932164 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926932164
+[2026-09-18T13:22:29.908Z] [shard 8] JOBID 150926932164 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:22:31.985Z] [shard 8] JOBID 150926932152 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-bsc-freelancer-soul-ai-gurugram-1-to-3-years-150926932152
+[2026-09-18T13:22:32.919Z] [shard 8] JOBID 150926932152 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:22:35.006Z] [shard 8] JOBID 150926932149 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-msc-freelancer-soul-ai-gurugram-1-to-3-years-150926932149
+[2026-09-18T13:22:35.813Z] [shard 8] JOBID 150926932149 COMPLETED - description captured (1835 chars)
+[2026-09-18T13:22:37.900Z] [shard 8] JOBID 150926932146 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-msc-freelancer-soul-ai-gurugram-0-to-3-years-150926932146
+[2026-09-18T13:22:38.909Z] [shard 8] JOBID 150926932146 COMPLETED - description captured (1836 chars)
+[2026-09-18T13:22:40.987Z] [shard 8] JOBID 150926932144 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-bsc-freelancer-soul-ai-gurugram-0-to-2-years-150926932144
+[2026-09-18T13:22:41.848Z] [shard 8] JOBID 150926932144 COMPLETED - description captured (1836 chars)
+[2026-09-18T13:22:41.881Z] [shard 8] Checkpoint saved (355 completed so far)
+[2026-09-18T13:22:43.963Z] [shard 8] JOBID 150926932065 attempt 1/3 - opening https://www.naukri.com/job-listings-data-visualization-engineer-freelancer-soul-ai-noida-2-to-5-years-150926932065
+[2026-09-18T13:22:44.809Z] [shard 8] JOBID 150926932065 COMPLETED - description captured (3015 chars)
+[2026-09-18T13:22:46.882Z] [shard 8] JOBID 150926932064 attempt 1/3 - opening https://www.naukri.com/job-listings-deep-learning-engineer-freelancer-soul-ai-noida-1-to-4-years-150926932064
+[2026-09-18T13:22:47.713Z] [shard 8] JOBID 150926932064 COMPLETED - description captured (1572 chars)
+[2026-09-18T13:22:49.793Z] [shard 8] JOBID 150926932061 attempt 1/3 - opening https://www.naukri.com/job-listings-research-scientist-freelancer-soul-ai-noida-4-to-8-years-150926932061
+[2026-09-18T13:22:50.619Z] [shard 8] JOBID 150926932061 COMPLETED - description captured (1519 chars)
+[2026-09-18T13:22:52.696Z] [shard 8] JOBID 150926932057 attempt 1/3 - opening https://www.naukri.com/job-listings-research-scientist-freelancer-soul-ai-noida-1-to-5-years-150926932057
+[2026-09-18T13:22:53.534Z] [shard 8] JOBID 150926932057 COMPLETED - description captured (2685 chars)
+[2026-09-18T13:22:55.607Z] [shard 8] JOBID 150926932039 attempt 1/3 - opening https://www.naukri.com/job-listings-web-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926932039
+[2026-09-18T13:22:56.430Z] [shard 8] JOBID 150926932039 COMPLETED - description captured (1594 chars)
+[2026-09-18T13:22:56.456Z] [shard 8] Checkpoint saved (360 completed so far)
+[2026-09-18T13:22:58.537Z] [shard 8] JOBID 150926932034 attempt 1/3 - opening https://www.naukri.com/job-listings-algorithmic-problem-solving-annotator-competitive-programming-soul-ai-noida-1-to-4-years-150926932034
+[2026-09-18T13:22:59.444Z] [shard 8] JOBID 150926932034 COMPLETED - description captured (1921 chars)
+[2026-09-18T13:23:01.537Z] [shard 8] JOBID 150926931953 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931953
+[2026-09-18T13:23:02.349Z] [shard 8] JOBID 150926931953 COMPLETED - description captured (665 chars)
+[2026-09-18T13:23:04.430Z] [shard 8] JOBID 150926931951 attempt 1/3 - opening https://www.naukri.com/job-listings-financial-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931951
+[2026-09-18T13:23:05.235Z] [shard 8] JOBID 150926931951 COMPLETED - description captured (1579 chars)
+[2026-09-18T13:23:07.309Z] [shard 8] JOBID 150926931946 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-noida-1-to-4-years-150926931946
+[2026-09-18T13:23:08.120Z] [shard 8] JOBID 150926931946 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:23:10.205Z] [shard 8] JOBID 150926931943 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-freelancer-soul-ai-noida-4-to-8-years-150926931943
+[2026-09-18T13:23:11.010Z] [shard 8] JOBID 150926931943 COMPLETED - description captured (1249 chars)
+[2026-09-18T13:23:11.054Z] [shard 8] Checkpoint saved (365 completed so far)
+[2026-09-18T13:23:13.138Z] [shard 8] JOBID 150926931940 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931940
+[2026-09-18T13:23:13.938Z] [shard 8] JOBID 150926931940 COMPLETED - description captured (1237 chars)
+[2026-09-18T13:23:16.006Z] [shard 8] JOBID 150926931938 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-noida-2-to-6-years-150926931938
+[2026-09-18T13:23:16.824Z] [shard 8] JOBID 150926931938 COMPLETED - description captured (1826 chars)
+[2026-09-18T13:23:18.907Z] [shard 8] JOBID 150926931934 attempt 1/3 - opening https://www.naukri.com/job-listings-electrical-design-engineer-bsc-freelancer-soul-ai-noida-1-to-4-years-150926931934
+[2026-09-18T13:23:19.742Z] [shard 8] JOBID 150926931934 COMPLETED - description captured (1831 chars)
+[2026-09-18T13:23:21.829Z] [shard 8] JOBID 150926931932 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931932
+[2026-09-18T13:23:22.649Z] [shard 8] JOBID 150926931932 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:23:24.738Z] [shard 8] JOBID 150926931930 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931930
+[2026-09-18T13:23:25.498Z] [shard 8] JOBID 150926931930 COMPLETED - description captured (1205 chars)
+[2026-09-18T13:23:25.512Z] [shard 8] Checkpoint saved (370 completed so far)
+[2026-09-18T13:23:27.598Z] [shard 8] JOBID 150926931927 attempt 1/3 - opening https://www.naukri.com/job-listings-power-systems-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931927
+[2026-09-18T13:23:28.378Z] [shard 8] JOBID 150926931927 COMPLETED - description captured (1211 chars)
+[2026-09-18T13:23:30.456Z] [shard 8] JOBID 150926931924 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931924
+[2026-09-18T13:23:31.329Z] [shard 8] JOBID 150926931924 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:23:33.410Z] [shard 8] JOBID 150926931922 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931922
+[2026-09-18T13:23:34.697Z] [shard 8] JOBID 150926931922 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:23:36.779Z] [shard 8] JOBID 150926931920 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931920
+[2026-09-18T13:23:37.627Z] [shard 8] JOBID 150926931920 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:23:39.704Z] [shard 8] JOBID 150926931918 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931918
+[2026-09-18T13:23:40.507Z] [shard 8] JOBID 150926931918 COMPLETED - description captured (1852 chars)
+[2026-09-18T13:23:40.545Z] [shard 8] Checkpoint saved (375 completed so far)
+[2026-09-18T13:23:42.614Z] [shard 8] JOBID 150926931916 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931916
+[2026-09-18T13:23:43.402Z] [shard 8] JOBID 150926931916 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:23:45.493Z] [shard 8] JOBID 150926931914 attempt 1/3 - opening https://www.naukri.com/job-listings-geotechnical-engineer-bsc-freelancer-soul-ai-noida-2-to-4-years-150926931914
+[2026-09-18T13:23:46.372Z] [shard 8] JOBID 150926931914 COMPLETED - description captured (1838 chars)
+[2026-09-18T13:23:48.446Z] [shard 8] JOBID 150926931912 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-phd-freelancer-soul-ai-noida-1-to-6-years-150926931912
+[2026-09-18T13:23:49.252Z] [shard 8] JOBID 150926931912 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:23:51.336Z] [shard 8] JOBID 150926931911 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-phd-freelancer-soul-ai-noida-2-to-6-years-150926931911
+[2026-09-18T13:23:52.173Z] [shard 8] JOBID 150926931911 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:23:54.259Z] [shard 8] JOBID 150926931908 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931908
+[2026-09-18T13:23:55.082Z] [shard 8] JOBID 150926931908 COMPLETED - description captured (1075 chars)
+[2026-09-18T13:23:55.106Z] [shard 8] Checkpoint saved (380 completed so far)
+[2026-09-18T13:23:57.188Z] [shard 8] JOBID 150926931906 attempt 1/3 - opening https://www.naukri.com/job-listings-vehicle-dynamics-engineer-bsc-freelancer-soul-ai-noida-1-to-4-years-150926931906
+[2026-09-18T13:23:58.022Z] [shard 8] JOBID 150926931906 COMPLETED - description captured (1872 chars)
+[2026-09-18T13:24:00.122Z] [shard 8] JOBID 150926931899 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931899
+[2026-09-18T13:24:00.964Z] [shard 8] JOBID 150926931899 COMPLETED - description captured (1082 chars)
+[2026-09-18T13:24:03.031Z] [shard 8] JOBID 150926931895 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931895
+[2026-09-18T13:24:03.903Z] [shard 8] JOBID 150926931895 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:24:05.983Z] [shard 8] JOBID 150926931893 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931893
+[2026-09-18T13:24:06.824Z] [shard 8] JOBID 150926931893 COMPLETED - description captured (1215 chars)
+[2026-09-18T13:24:08.902Z] [shard 8] JOBID 150926931891 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931891
+[2026-09-18T13:24:09.757Z] [shard 8] JOBID 150926931891 COMPLETED - description captured (1102 chars)
+[2026-09-18T13:24:09.800Z] [shard 8] Checkpoint saved (385 completed so far)
+[2026-09-18T13:24:11.876Z] [shard 8] JOBID 150926931889 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931889
+[2026-09-18T13:24:12.798Z] [shard 8] JOBID 150926931889 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:24:14.877Z] [shard 8] JOBID 150926931887 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-msc-freelancer-soul-ai-noida-0-to-3-years-150926931887
+[2026-09-18T13:24:15.691Z] [shard 8] JOBID 150926931887 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:24:17.781Z] [shard 8] JOBID 150926931884 attempt 1/3 - opening https://www.naukri.com/job-listings-manufacturing-process-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931884
+[2026-09-18T13:24:18.574Z] [shard 8] JOBID 150926931884 COMPLETED - description captured (1858 chars)
+[2026-09-18T13:24:20.663Z] [shard 8] JOBID 150926931882 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931882
+[2026-09-18T13:24:21.452Z] [shard 8] JOBID 150926931882 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:24:23.533Z] [shard 8] JOBID 150926931863 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-physics-k12-professional-freelancer-soul-ai-noida-4-to-8-years-150926931863
+[2026-09-18T13:24:24.419Z] [shard 8] JOBID 150926931863 COMPLETED - description captured (1485 chars)
+[2026-09-18T13:24:24.436Z] [shard 8] Checkpoint saved (390 completed so far)
+[2026-09-18T13:24:26.523Z] [shard 8] JOBID 150926931845 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931845
+[2026-09-18T13:24:27.380Z] [shard 8] JOBID 150926931845 COMPLETED - description captured (1083 chars)
+[2026-09-18T13:24:29.467Z] [shard 8] JOBID 150926931826 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931826
+[2026-09-18T13:24:30.324Z] [shard 8] JOBID 150926931826 COMPLETED - description captured (1867 chars)
+[2026-09-18T13:24:32.398Z] [shard 8] JOBID 150926931822 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-bsc-freelancer-soul-ai-noida-1-to-4-years-150926931822
+[2026-09-18T13:24:33.285Z] [shard 8] JOBID 150926931822 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:24:35.365Z] [shard 8] JOBID 150926931814 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931814
+[2026-09-18T13:24:36.211Z] [shard 8] JOBID 150926931814 COMPLETED - description captured (1107 chars)
+[2026-09-18T13:24:38.299Z] [shard 8] JOBID 150926931811 attempt 1/3 - opening https://www.naukri.com/job-listings-theology-expert-freelancer-soul-ai-noida-4-to-8-years-150926931811
+[2026-09-18T13:24:39.164Z] [shard 8] JOBID 150926931811 COMPLETED - description captured (1697 chars)
+[2026-09-18T13:24:39.206Z] [shard 8] Checkpoint saved (395 completed so far)
+[2026-09-18T13:24:41.296Z] [shard 8] JOBID 150926931768 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-literature-freelancer-soul-ai-noida-4-to-8-years-150926931768
+[2026-09-18T13:24:42.143Z] [shard 8] JOBID 150926931768 COMPLETED - description captured (1787 chars)
+[2026-09-18T13:24:44.234Z] [shard 8] JOBID 150926931765 attempt 1/3 - opening https://www.naukri.com/job-listings-stem-curriculum-designer-freelancer-soul-ai-noida-1-to-5-years-150926931765
+[2026-09-18T13:24:45.070Z] [shard 8] JOBID 150926931765 COMPLETED - description captured (2808 chars)
+[2026-09-18T13:24:47.150Z] [shard 8] JOBID 150926931753 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-theology-professional-freelancer-soul-ai-noida-4-to-8-years-150926931753
+[2026-09-18T13:24:47.967Z] [shard 8] JOBID 150926931753 COMPLETED - description captured (1823 chars)
+[2026-09-18T13:24:50.046Z] [shard 8] JOBID 150926931746 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-geometry-freelancer-soul-ai-noida-4-to-8-years-150926931746
+[2026-09-18T13:24:50.969Z] [shard 8] JOBID 150926931746 COMPLETED - description captured (1403 chars)
+[2026-09-18T13:24:53.067Z] [shard 8] JOBID 150926931744 attempt 1/3 - opening https://www.naukri.com/job-listings-embedded-systems-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931744
+[2026-09-18T13:24:53.873Z] [shard 8] JOBID 150926931744 COMPLETED - description captured (1862 chars)
+[2026-09-18T13:24:53.888Z] [shard 8] Checkpoint saved (400 completed so far)
+[2026-09-18T13:24:55.955Z] [shard 8] JOBID 150926931742 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931742
+[2026-09-18T13:24:56.858Z] [shard 8] JOBID 150926931742 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:24:58.947Z] [shard 8] JOBID 150926931735 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-phd-freelancer-soul-ai-noida-1-to-4-years-150926931735
+[2026-09-18T13:24:59.757Z] [shard 8] JOBID 150926931735 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:25:01.844Z] [shard 8] JOBID 150926931723 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931723
+[2026-09-18T13:25:02.707Z] [shard 8] JOBID 150926931723 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:25:04.790Z] [shard 8] JOBID 150926931705 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-msc-expert-freelance-soul-ai-noida-4-to-8-years-150926931705
+[2026-09-18T13:25:05.654Z] [shard 8] JOBID 150926931705 COMPLETED - description captured (1110 chars)
+[2026-09-18T13:25:07.721Z] [shard 8] JOBID 150926931677 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931677
+[2026-09-18T13:25:08.609Z] [shard 8] JOBID 150926931677 COMPLETED - description captured (1855 chars)
+[2026-09-18T13:25:08.652Z] [shard 8] Checkpoint saved (405 completed so far)
+[2026-09-18T13:25:10.747Z] [shard 8] JOBID 150926931656 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931656
+[2026-09-18T13:25:11.671Z] [shard 8] JOBID 150926931656 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:25:13.754Z] [shard 8] JOBID 150926931615 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931615
+[2026-09-18T13:25:14.584Z] [shard 8] JOBID 150926931615 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:25:16.657Z] [shard 8] JOBID 150926931613 attempt 1/3 - opening https://www.naukri.com/job-listings-theology-expert-freelancer-soul-ai-noida-4-to-6-years-150926931613
+[2026-09-18T13:25:17.431Z] [shard 8] JOBID 150926931613 COMPLETED - description captured (2482 chars)
+[2026-09-18T13:25:19.508Z] [shard 8] JOBID 150926931608 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-bsc-expert-freelance-soul-ai-noida-4-to-8-years-150926931608
+[2026-09-18T13:25:20.623Z] [shard 8] JOBID 150926931608 COMPLETED - description captured (1232 chars)
+[2026-09-18T13:25:22.712Z] [shard 8] JOBID 150926931606 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-biology-k12-freelancer-soul-ai-noida-4-to-8-years-150926931606
+[2026-09-18T13:25:23.645Z] [shard 8] JOBID 150926931606 COMPLETED - description captured (1515 chars)
+[2026-09-18T13:25:23.679Z] [shard 8] Checkpoint saved (410 completed so far)
+[2026-09-18T13:25:25.764Z] [shard 8] JOBID 150926931604 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-design-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931604
+[2026-09-18T13:25:26.545Z] [shard 8] JOBID 150926931604 COMPLETED - description captured (1845 chars)
+[2026-09-18T13:25:28.623Z] [shard 8] JOBID 150926931597 attempt 1/3 - opening https://www.naukri.com/job-listings-process-engineer-phd-freelancer-soul-ai-noida-1-to-4-years-150926931597
+[2026-09-18T13:25:29.437Z] [shard 8] JOBID 150926931597 COMPLETED - description captured (1837 chars)
+[2026-09-18T13:25:31.523Z] [shard 8] JOBID 150926931588 attempt 1/3 - opening https://www.naukri.com/job-listings-sme-theology-freelancer-soul-ai-noida-4-to-7-years-150926931588
+[2026-09-18T13:25:32.400Z] [shard 8] JOBID 150926931588 COMPLETED - description captured (2474 chars)
+[2026-09-18T13:25:34.484Z] [shard 8] JOBID 150926931552 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931552
+[2026-09-18T13:25:35.328Z] [shard 8] JOBID 150926931552 COMPLETED - description captured (1533 chars)
+[2026-09-18T13:25:37.402Z] [shard 8] JOBID 150926931547 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931547
+[2026-09-18T13:25:38.254Z] [shard 8] JOBID 150926931547 COMPLETED - description captured (1529 chars)
+[2026-09-18T13:25:38.293Z] [shard 8] Checkpoint saved (415 completed so far)
+[2026-09-18T13:25:40.374Z] [shard 8] JOBID 150926931545 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931545
+[2026-09-18T13:25:41.174Z] [shard 8] JOBID 150926931545 COMPLETED - description captured (1244 chars)
+[2026-09-18T13:25:43.252Z] [shard 8] JOBID 150926931543 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931543
+[2026-09-18T13:25:44.149Z] [shard 8] JOBID 150926931543 COMPLETED - description captured (1229 chars)
+[2026-09-18T13:25:46.221Z] [shard 8] JOBID 150926931540 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931540
+[2026-09-18T13:25:47.091Z] [shard 8] JOBID 150926931540 COMPLETED - description captured (1850 chars)
+[2026-09-18T13:25:49.165Z] [shard 8] JOBID 150926931504 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931504
+[2026-09-18T13:25:49.998Z] [shard 8] JOBID 150926931504 COMPLETED - description captured (1095 chars)
+[2026-09-18T13:25:52.095Z] [shard 8] JOBID 150926931501 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931501
+[2026-09-18T13:25:52.949Z] [shard 8] JOBID 150926931501 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:25:52.973Z] [shard 8] Checkpoint saved (420 completed so far)
+[2026-09-18T13:25:55.046Z] [shard 8] JOBID 150926931499 attempt 1/3 - opening https://www.naukri.com/job-listings-structural-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931499
+[2026-09-18T13:25:55.893Z] [shard 8] JOBID 150926931499 COMPLETED - description captured (1106 chars)
+[2026-09-18T13:25:57.962Z] [shard 8] JOBID 150926931490 attempt 1/3 - opening https://www.naukri.com/job-listings-mlops-engineer-freelancer-soul-ai-noida-4-to-8-years-150926931490
+[2026-09-18T13:25:58.825Z] [shard 8] JOBID 150926931490 COMPLETED - description captured (1284 chars)
+[2026-09-18T13:26:00.909Z] [shard 8] JOBID 150926931474 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-noida-4-to-8-years-150926931474
+[2026-09-18T13:26:01.722Z] [shard 8] JOBID 150926931474 COMPLETED - description captured (1560 chars)
+[2026-09-18T13:26:03.796Z] [shard 8] JOBID 150926931369 attempt 1/3 - opening https://www.naukri.com/job-listings-rbi-grade-b-tutor-freelance-soul-ai-noida-4-to-8-years-150926931369
+[2026-09-18T13:26:04.703Z] [shard 8] JOBID 150926931369 COMPLETED - description captured (1063 chars)
+[2026-09-18T13:26:06.785Z] [shard 8] JOBID 150926931361 attempt 1/3 - opening https://www.naukri.com/job-listings-psychology-tutor-k12-freelancer-soul-ai-noida-4-to-8-years-150926931361
+[2026-09-18T13:26:07.708Z] [shard 8] JOBID 150926931361 COMPLETED - description captured (1240 chars)
+[2026-09-18T13:26:07.748Z] [shard 8] Checkpoint saved (425 completed so far)
+[2026-09-18T13:26:09.824Z] [shard 8] JOBID 150926931347 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-msc-expert-soul-ai-noida-1-to-4-years-150926931347
+[2026-09-18T13:26:10.641Z] [shard 8] JOBID 150926931347 COMPLETED - description captured (1577 chars)
+[2026-09-18T13:26:12.734Z] [shard 8] JOBID 150926931298 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-msc-freelancer-soul-ai-noida-1-to-4-years-150926931298
+[2026-09-18T13:26:13.572Z] [shard 8] JOBID 150926931298 COMPLETED - description captured (1873 chars)
+[2026-09-18T13:26:15.663Z] [shard 8] JOBID 150926931281 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931281
+[2026-09-18T13:26:16.468Z] [shard 8] JOBID 150926931281 COMPLETED - description captured (1113 chars)
+[2026-09-18T13:26:18.553Z] [shard 8] JOBID 150926931238 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931238
+[2026-09-18T13:26:19.492Z] [shard 8] JOBID 150926931238 COMPLETED - description captured (816 chars)
+[2026-09-18T13:26:21.571Z] [shard 8] JOBID 150926931204 attempt 1/3 - opening https://www.naukri.com/job-listings-natural-language-processing-engineer-freelancer-soul-ai-noida-0-to-3-years-150926931204
+[2026-09-18T13:26:22.624Z] [shard 8] JOBID 150926931204 COMPLETED - description captured (2856 chars)
+[2026-09-18T13:26:22.651Z] [shard 8] Checkpoint saved (430 completed so far)
+[2026-09-18T13:26:24.722Z] [shard 8] JOBID 150926931166 attempt 1/3 - opening https://www.naukri.com/job-listings-biology-phd-expert-freelance-soul-ai-noida-4-to-8-years-150926931166
+[2026-09-18T13:26:25.705Z] [shard 8] JOBID 150926931166 COMPLETED - description captured (1090 chars)
+[2026-09-18T13:26:27.787Z] [shard 8] JOBID 150926931161 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931161
+[2026-09-18T13:26:28.731Z] [shard 8] JOBID 150926931161 COMPLETED - description captured (1050 chars)
+[2026-09-18T13:26:30.811Z] [shard 8] JOBID 150926931156 attempt 1/3 - opening https://www.naukri.com/job-listings-automotive-design-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931156
+[2026-09-18T13:26:31.694Z] [shard 8] JOBID 150926931156 COMPLETED - description captured (1050 chars)
+[2026-09-18T13:26:33.777Z] [shard 8] JOBID 150926931153 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931153
+[2026-09-18T13:26:34.718Z] [shard 8] JOBID 150926931153 COMPLETED - description captured (1014 chars)
+[2026-09-18T13:26:36.810Z] [shard 8] JOBID 150926931151 attempt 1/3 - opening https://www.naukri.com/job-listings-industrial-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931151
+[2026-09-18T13:26:37.836Z] [shard 8] JOBID 150926931151 COMPLETED - description captured (1032 chars)
+[2026-09-18T13:26:37.875Z] [shard 8] Checkpoint saved (435 completed so far)
+[2026-09-18T13:26:39.946Z] [shard 8] JOBID 150926931149 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931149
+[2026-09-18T13:26:40.780Z] [shard 8] JOBID 150926931149 COMPLETED - description captured (764 chars)
+[2026-09-18T13:26:42.872Z] [shard 8] JOBID 150926931148 attempt 1/3 - opening https://www.naukri.com/job-listings-backend-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931148
+[2026-09-18T13:26:43.683Z] [shard 8] JOBID 150926931148 COMPLETED - description captured (1584 chars)
+[2026-09-18T13:26:45.762Z] [shard 8] JOBID 150926931129 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931129
+[2026-09-18T13:26:46.569Z] [shard 8] JOBID 150926931129 COMPLETED - description captured (787 chars)
+[2026-09-18T13:26:48.652Z] [shard 8] JOBID 150926931121 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931121
+[2026-09-18T13:26:49.493Z] [shard 8] JOBID 150926931121 COMPLETED - description captured (886 chars)
+[2026-09-18T13:26:51.585Z] [shard 8] JOBID 150926931117 attempt 1/3 - opening https://www.naukri.com/job-listings-frontend-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931117
+[2026-09-18T13:26:52.363Z] [shard 8] JOBID 150926931117 COMPLETED - description captured (1526 chars)
+[2026-09-18T13:26:52.405Z] [shard 8] Checkpoint saved (440 completed so far)
+[2026-09-18T13:26:54.489Z] [shard 8] JOBID 150926931108 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-ai-trainer-soul-ai-noida-4-to-8-years-150926931108
+[2026-09-18T13:26:55.289Z] [shard 8] JOBID 150926931108 COMPLETED - description captured (1614 chars)
+[2026-09-18T13:26:57.359Z] [shard 8] JOBID 150926931102 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931102
+[2026-09-18T13:26:58.213Z] [shard 8] JOBID 150926931102 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:27:00.300Z] [shard 8] JOBID 150926931100 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-noida-1-to-3-years-150926931100
+[2026-09-18T13:27:01.216Z] [shard 8] JOBID 150926931100 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:27:03.309Z] [shard 8] JOBID 150926931094 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931094
+[2026-09-18T13:27:04.141Z] [shard 8] JOBID 150926931094 COMPLETED - description captured (1059 chars)
+[2026-09-18T13:27:06.220Z] [shard 8] JOBID 150926931092 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-noida-1-to-3-years-150926931092
+[2026-09-18T13:27:07.085Z] [shard 8] JOBID 150926931092 COMPLETED - description captured (1814 chars)
+[2026-09-18T13:27:07.104Z] [shard 8] Checkpoint saved (445 completed so far)
+[2026-09-18T13:27:09.182Z] [shard 8] JOBID 150926931066 attempt 1/3 - opening https://www.naukri.com/job-listings-c-programmer-freelancer-soul-ai-noida-4-to-8-years-150926931066
+[2026-09-18T13:27:10.066Z] [shard 8] JOBID 150926931066 COMPLETED - description captured (1544 chars)
+[2026-09-18T13:27:12.142Z] [shard 8] JOBID 150926931063 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926931063
+[2026-09-18T13:27:12.913Z] [shard 8] JOBID 150926931063 COMPLETED - description captured (1065 chars)
+[2026-09-18T13:27:14.988Z] [shard 8] JOBID 150926931061 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-soul-ai-noida-1-to-4-years-150926931061
+[2026-09-18T13:27:15.858Z] [shard 8] JOBID 150926931061 COMPLETED - description captured (1535 chars)
+[2026-09-18T13:27:17.938Z] [shard 8] JOBID 150926931054 attempt 1/3 - opening https://www.naukri.com/job-listings-chemistry-msc-expert-freelance-soul-ai-noida-4-to-8-years-150926931054
+[2026-09-18T13:27:18.782Z] [shard 8] JOBID 150926931054 COMPLETED - description captured (1295 chars)
+[2026-09-18T13:27:20.869Z] [shard 8] JOBID 150926931044 attempt 1/3 - opening https://www.naukri.com/job-listings-computer-science-engineer-bsc-freelancer-soul-ai-noida-0-to-3-years-150926931044
+[2026-09-18T13:27:21.684Z] [shard 8] JOBID 150926931044 COMPLETED - description captured (1821 chars)
+[2026-09-18T13:27:21.721Z] [shard 8] Checkpoint saved (450 completed so far)
+[2026-09-18T13:27:23.810Z] [shard 8] JOBID 150926931037 attempt 1/3 - opening https://www.naukri.com/job-listings-sql-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926931037
+[2026-09-18T13:27:24.620Z] [shard 8] JOBID 150926931037 COMPLETED - description captured (1582 chars)
+[2026-09-18T13:27:26.688Z] [shard 8] JOBID 150926931031 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931031
+[2026-09-18T13:27:27.560Z] [shard 8] JOBID 150926931031 COMPLETED - description captured (1080 chars)
+[2026-09-18T13:27:29.637Z] [shard 8] JOBID 150926931029 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-noida-1-to-5-years-150926931029
+[2026-09-18T13:27:30.540Z] [shard 8] JOBID 150926931029 COMPLETED - description captured (1835 chars)
+[2026-09-18T13:27:32.629Z] [shard 8] JOBID 150926931022 attempt 1/3 - opening https://www.naukri.com/job-listings-mechanical-engineer-phd-freelancer-soul-ai-noida-4-to-8-years-150926931022
+[2026-09-18T13:27:33.471Z] [shard 8] JOBID 150926931022 COMPLETED - description captured (1086 chars)
+[2026-09-18T13:27:35.540Z] [shard 8] JOBID 150926931018 attempt 1/3 - opening https://www.naukri.com/job-listings-electronics-design-engineer-msc-freelancer-soul-ai-noida-4-to-8-years-150926931018
+[2026-09-18T13:27:36.442Z] [shard 8] JOBID 150926931018 COMPLETED - description captured (1118 chars)
+[2026-09-18T13:27:36.468Z] [shard 8] Checkpoint saved (455 completed so far)
+[2026-09-18T13:27:38.552Z] [shard 8] JOBID 150926931004 attempt 1/3 - opening https://www.naukri.com/job-listings-physics-bsc-expert-freelance-soul-ai-noida-4-to-8-years-150926931004
+[2026-09-18T13:27:39.506Z] [shard 8] JOBID 150926931004 COMPLETED - description captured (1081 chars)
+[2026-09-18T13:27:41.598Z] [shard 8] JOBID 150926930992 attempt 1/3 - opening https://www.naukri.com/job-listings-chemical-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-150926930992
+[2026-09-18T13:27:42.393Z] [shard 8] JOBID 150926930992 COMPLETED - description captured (699 chars)
+[2026-09-18T13:27:44.472Z] [shard 8] JOBID 150926930989 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-engineer-freelancer-soul-ai-noida-1-to-5-years-150926930989
+[2026-09-18T13:27:45.442Z] [shard 8] JOBID 150926930989 COMPLETED - description captured (2622 chars)
+[2026-09-18T13:27:47.534Z] [shard 8] JOBID 150926930980 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-trainer-soul-ai-noida-4-to-8-years-150926930980
+[2026-09-18T13:27:48.436Z] [shard 8] JOBID 150926930980 COMPLETED - description captured (789 chars)
+[2026-09-18T13:27:50.517Z] [shard 8] JOBID 150926930976 attempt 1/3 - opening https://www.naukri.com/job-listings-environmental-scientist-freelancer-soul-ai-noida-4-to-8-years-150926930976
+[2026-09-18T13:27:51.322Z] [shard 8] JOBID 150926930976 COMPLETED - description captured (1932 chars)
+[2026-09-18T13:27:51.362Z] [shard 8] Checkpoint saved (460 completed so far)
+[2026-09-18T13:27:53.441Z] [shard 8] JOBID 150926930954 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926930954
+[2026-09-18T13:27:54.218Z] [shard 8] JOBID 150926930954 COMPLETED - description captured (764 chars)
+[2026-09-18T13:27:56.295Z] [shard 8] JOBID 150926930950 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-ai-trainer-soul-ai-noida-4-to-8-years-150926930950
+[2026-09-18T13:27:57.061Z] [shard 8] JOBID 150926930950 COMPLETED - description captured (761 chars)
+[2026-09-18T13:27:59.148Z] [shard 8] JOBID 150926930935 attempt 1/3 - opening https://www.naukri.com/job-listings-civil-engineer-phd-soul-ai-noida-2-to-5-years-150926930935
+[2026-09-18T13:27:59.931Z] [shard 8] JOBID 150926930935 COMPLETED - description captured (1550 chars)
+[2026-09-18T13:28:02.000Z] [shard 8] JOBID 150926930930 attempt 1/3 - opening https://www.naukri.com/job-listings-operations-analyst-freelancer-soul-ai-noida-4-to-8-years-150926930930
+[2026-09-18T13:28:02.754Z] [shard 8] JOBID 150926930930 COMPLETED - description captured (1072 chars)
+[2026-09-18T13:28:04.846Z] [shard 8] JOBID 150926930918 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-soul-ai-noida-4-to-8-years-150926930918
+[2026-09-18T13:28:05.604Z] [shard 8] JOBID 150926930918 COMPLETED - description captured (3165 chars)
+[2026-09-18T13:28:05.617Z] [shard 8] Checkpoint saved (465 completed so far)
+[2026-09-18T13:28:07.700Z] [shard 8] JOBID 150926930908 attempt 1/3 - opening https://www.naukri.com/job-listings-drilling-engineer-msc-freelancer-soul-ai-noida-2-to-6-years-150926930908
+[2026-09-18T13:28:08.628Z] [shard 8] JOBID 150926930908 COMPLETED - description captured (1834 chars)
+[2026-09-18T13:28:10.822Z] [shard 8] Run finished. Rows in range: 466. Completed: 466. Skipped (no URL): 0. Failed: 0.
